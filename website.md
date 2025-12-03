@@ -239,7 +239,7 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 ## Related Pages
 
-- [Puzzle-Solving Techniques](./transmissions/puzzle-techniques.md) - Website puzzle solutions and methods
+- [Puzzle-Solving Techniques](/transmissions/puzzle-guide.md) - Website puzzle solutions and methods
 - [Lore](./lore.md) - Lore elements discovered in console logs
 - [Timeline](./timeline.md) - Website discovery events
 - [Post #9: Website Reveal](./transmissions/posts/post-9.md) - Website reveal video

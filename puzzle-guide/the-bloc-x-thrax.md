@@ -1,12 +1,11 @@
 ---
-description: >-
-  The Bloc scooped Thrax, locked him in a basement, de-programed him, and issued
-  a puzzle to the community to get him back.
+description: The Bloc scooped Thrax, locked him in a basement, de-programed him, and issued a puzzle to the community to get him back.
 cover: ../.gitbook/assets/Screenshot 2025-11-28 at 9.03.46 AM.png
-coverY: 187.35536739021958
 ---
 
 # The Bloc x Thrax
+
+> The Bloc scooped Thrax, locked him in a basement, de-programed him, and issued a puzzle to the community to get him back.
 
 #### Debrief by [@eleven88eth](https://x.com/eleven88eth)
 
@@ -24,18 +23,19 @@ It all started with this event... G\*BOY being spotted on a video call between [
 
 It's no coincidence that these operatives were pulled into today's mission, but I'm getting ahead of myself.
 
-{% embed url="https://x.com/LostSnow_Rin/status/1991992692524699866?s=20" fullWidth="true" %}
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">OMG... you guys gotta see this!!! I can&#39;t believe my eyes! <a href="https://twitter.com/thrax_nft?ref_src=twsrc%5Etfw">@thrax_nft</a> WE NEED DETAILS MAN!! WTF HAPPENED?! <a href="https://t.co/Au1Y4iXUhM">pic.twitter.com/Au1Y4iXUhM</a></p>&mdash; Lost Snow (villain arc) (@LostSnow_Rin) <a href="https://twitter.com/LostSnow_Rin/status/1991992692524699866?ref_src=twsrc%5Etfw">November 21, 2025</a></blockquote>
+
 
 Thrax is shown to immediately disconnect from the call and is not heard from again... until... \
 We received this transmission from Thrax’s account.&#x20;
 
-{% embed url="https://x.com/thrax_nft/status/1992013209386246232?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/thrax_nft/status/1992013209386246232?ref_src=twsrc%5Etfw"></a></blockquote>
 
 It appeared that The Bloc had kidnapped- no, man-napped, erm… shoved-into-the-basement-with-a-popsicle'd our beloved, innocent and helpless Thraxy-poo. We did not yet know what they wanted or if they were a friend or foe.\
 \
 Many of the community member sprang into action, demanding proof of life. The Bloc seemed annoyed by this, yet met our demands by broadcasting this transmission.
 
-{% embed url="https://x.com/thrax_nft/status/1992315393218879914?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/thrax_nft/status/1992315393218879914?ref_src=twsrc%5Etfw"></a></blockquote>
 
 &#x20;This was the relief we needed to stop worrying, and prepare to receive any follow-up communication.
 
@@ -48,17 +48,17 @@ I have discovered this is was not an exaggeration.
 \
 One community member, however, was not buying it. [@Ruzlu](https://x.com/BAGFILLERR) put his ear to the ground, and started tracking the homie.&#x20;
 
-{% embed url="https://x.com/BAGFILLERR/status/1992399889129697557?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/BAGFILLERR/status/1992399889129697557?ref_src=twsrc%5Etfw"></a></blockquote>
 
 It was an epic effort… actually- come to think of it, is he still out there? Someone should let him know Thrax has been returned. Not me though, I’m a little scared of him. Anyway- check out his video logs of his efforts. They are thrilling. Mfer has a lab!
 
 Anyway… where was I…. oh right- Yesterday we finally receive the transmission we were waiting for; the Bloc was ready to talk. The transmission was queued and I literally did nothing but stare at my phone until we finally got the next message. My wife, my daughter and my boss were pissed. They did not believe that I was an operative trying to save a friend… like, I mean, c’mon. It’s not that hard to believe, right?… right?
 
-{% embed url="https://x.com/thrax_nft/status/1993708253147201959?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/thrax_nft/status/1993708253147201959?ref_src=twsrc%5Etfw"></a></blockquote>
 
 The message finally came through— and it was fucking gibberish. Thrax may have raided the kitchen, but 1nk was sneaking sips from the liquor cabinet.
 
-{% embed url="https://x.com/thrax_nft/status/1994168168156414242?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/thrax_nft/status/1994168168156414242?ref_src=twsrc%5Etfw"></a></blockquote>
 
 At least thats what I thought until another transmission came through from [@Owl](https://x.com/satoshi_owl) that was also gibberish and then a third from [@Kapz](https://x.com/knollcaptures)! These are the same fools that were on that call (without me) when G304 showed up in Canada, remember!? This is when I realized it was an encrypted message… and I spotted something.\
 \
@@ -93,7 +93,7 @@ The last piece was decoded: `FLAG VALUE SIXTY` and now we were getting somewhere
 \
 Next- [@Owl's](https://x.com/satoshi_owl) message. Following the same pattern, I recognized the timestamp. It was from the same SJ-Securelab/MITER log.
 
-{% embed url="https://x.com/satoshi_owl/status/1994169467492856183" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/satoshi_owl/status/1994169467492856183?ref_src=twsrc%5Etfw"></a></blockquote>
 
 Going by timestamps again, the original log looked like this:&#x20;
 
@@ -128,12 +128,12 @@ were character indexes. Took me second, and a couple tries, but I eventually got
 
 The key: `phospheneluminescence` , or "Phosphene Luminescence"
 
-{% embed url="https://x.com/austin_hurwitz/status/1993433486578139233?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/austin_hurwitz/status/1993433486578139233?ref_src=twsrc%5Etfw"></a></blockquote>
 
 Using that key I was able to decrypt Kapz's final message- or so I thought.\
 His post looked like the other, but it didn't decrypt as cleanly as expected.
 
-{% embed url="https://x.com/knollcaptures/status/1994171540326502907?s=20" %}
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/knollcaptures/status/1994171540326502907?ref_src=twsrc%5Etfw"></a></blockquote>
 
 When I decrypted it, it came back as:<br>
 
