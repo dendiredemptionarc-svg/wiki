@@ -44,5 +44,5 @@
 ## Maintenance
 
 * [How to Contribute](CONTRIBUTING.md)
-* [Submit Content](contribute.md)
+
 * [Recent Updates](maintenance/recent-updates.md)

@@ -1,5 +1,5 @@
 <script setup>
-import { data as tweets } from './tweets.data.ts'
+import { data as tweets } from '../.vitepress/data/tweets.data.ts'
 </script>
 
 # G*BOY Statues
