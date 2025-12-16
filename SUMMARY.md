@@ -10,7 +10,7 @@
 ## The Story
 
 - [Lore](lore.md)
-- [Episode 1: The Saint Juniper Files - Origins of G\*BOY](episode-1.md)
+- [Episode 1: The Saint Juniper Files - Origins of GBOY](episode-1.md)
 - [Transmissions](transmissions/overview.md)
   - [Post 1: First Teaser](transmissions/posts/post-1.md)
   - [Post 2: We're Watching](transmissions/posts/post-2.md)
