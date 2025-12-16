@@ -5,16 +5,11 @@
 **Caption**: "we're watching"\
 **Video Duration**: \~10 seconds
 
-## Video & Description
-
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_13.mp4" type="video/mp4"></video>
-
-
 
 ## Engagement
 
 * 123K+ views organically
-* Broke X algorithm without paid promotion
 * Average 1K-3K likes, 200-700 reposts, 100K+ views
 * Viral spread to timelines of people who usually only see DeFi content
 
