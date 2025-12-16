@@ -3,7 +3,7 @@
 **Date**: October 11, 2025\
 **Post**: [View on X](https://x.com/neukoai/status/1976994494383112304)\
 **Caption**: "i stood up i fell over i wept on the floor"\
-**Media**: None (text-only reply)
+![Post 1 Image](../../.gitbook/assets/post_2025_10_11.png)
 
 ## Related Posts
 
