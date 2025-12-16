@@ -12,7 +12,7 @@
 | X | [@neukoai](https://x.com/neukoai) | All videos, announcements, puzzles |
 | Website | [neuko.ai](https://neuko.ai) | PIN-locked portal + console clues |
 | AI Tool | [gboyspecial.com](https://gboyspecial.com) | **[NEW]** Create G*Boy art with AI |
-| Telegram | [t.me/neukoai](https://t.me/neukoai) | Community chat |
+| Telegram | [t.me/+hHliXw_eAF1kMzEx](https://t.me/+hHliXw_eAF1kMzEx) | Community chat |
 | Badges (ME) | [Magic Eden](https://magiceden.io/marketplace/gboy_badges) | Buy/trade Rabbit/Moth/Snake |
 | Badges (Tensor) | [Tensor](https://tensor.trade/trade/gboy_badges) | Alternative marketplace |
 
