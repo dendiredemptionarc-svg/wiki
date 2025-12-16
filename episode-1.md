@@ -1,4 +1,4 @@
-# Episode 1: The Saint Juniper Files - The Origins of G\*BOY
+# Episode 1: The Saint Juniper Files - Origins of G\*BOY
 
 > A deep dive into the origins of G\*BOY and the experiments that created him.
 
