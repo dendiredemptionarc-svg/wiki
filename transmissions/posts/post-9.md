@@ -9,26 +9,11 @@
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_11_05.mp4" type="video/mp4"></video>
 
-* Montage of old white TV sets
-* Each screen displays animated hooded figures (red cape, black eyes) in fantastical scenes:
-  * Desert landscapes
-  * Skateboarding
-  * Bubble scenes
-  * Party scenes
-  * Mountain summit
-  * Fire
-  * Bedroom
-  * Throne made of TVs
-  * Dancing
-  * Heart explosion
-* No text overlays or subtitles
-* Style: Montage, creative explosion, throwback to first video
+
 
 ## Website
 
 * Minimalistic design with "NEUKO" title
-* Logo: three yellow figures on red background
-* TV frame aesthetic
 * "Unlock" section with "Enter PIN to unlock" prompt
 * PIN system requires codes from previous puzzles (Post #7)
 * Console logs accessible via browser dev tools (discovered by [@thrax\_nft](https://x.com/thrax_nft))
@@ -63,22 +48,6 @@
 
 ## Puzzle/Lore Hooks
 
-* Website officially revealed
-* PIN unlock system (codes from Post #7)
-* Console logs contain G\*Boy directives and lore
-* Treasure trail adds new puzzle layer
-* Visual throwback to launch video
-
-## Community Reactions
-
-* Excitement about website access
-* Puzzle solvers extracting console logs
-* Treasure trail hunters active
-* Appreciation for visual creativity
-
-## Significance
-
-Website officially revealed, new puzzle layer unlocked.
 
 ## Related Posts
 
