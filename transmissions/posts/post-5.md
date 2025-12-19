@@ -2,19 +2,14 @@
 
 **Date**: October 22, 2025\
 **Post**: [View on X](https://x.com/neukoai/status/1981125805104312473)\
-**Caption**: _(blank)_\
+**Caption**: 
+🐰✅
+🐝✅
+🐍⏰
 **Video Duration**: \~26 seconds
-
-## Video &  Description
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_22.mp4" type="video/mp4"></video>
 
-* Hands opening green and red boxes containing badges
-* Computer screens showing "Distribution Complete, Field Deployment Authorized"
-* Badges being pinned or dropped
-* First hint at Snake 🐍 badge
-* Static/aggressive sounds toward end
-* Style: Simple, reveal-focused
 
 ## Distribution
 
@@ -32,7 +27,9 @@
 * Analyzed audio track using spectrogram tools
 * Discovered hidden images in audio frequency spectrum:
   * Time machine imagery
+    ![Time Machine Spectrogram](../../.gitbook/assets/post_5_spectrogram_time_machine.png)
   * Testing chamber with badge on device
+    ![Testing Chamber Spectrogram](../../.gitbook/assets/post_5_spectrogram_testing_chamber.png)
 
 **Significance**: First puzzle discovered, revealed lore elements about experimental facilities
 
