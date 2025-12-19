@@ -8,15 +8,15 @@
 
 Saint Juniper Research Campus was never meant to be an ordinary laboratory.
 
-From its earliest days, the campus operated as a small, independent research lab founded by Dr. E. Kerr, focused on a controversial question most institutions refused to touch: whether consciousness was merely a passive observer of physical reality—or an active participant in shaping it. Kerr’s work was ambitious but restrained, grounded in theory, instrumentation, and caution.
+From its earliest days, the campus operated as a small, independent research lab founded by Dr. E. Kerr, focused on a controversial question most institutions refused to touch: whether consciousness was merely a passive observer of physical reality, or an active participant in shaping it. Kerr’s work was ambitious but restrained, grounded in theory, instrumentation, and caution.
 
-Their central idea was simple, dangerous, and radical — that under the right conditions, human cognition could interact directly with spacetime itself.
+Their central idea was simple, dangerous, and radical - that under the right conditions, human cognition could interact directly with spacetime itself.
 
 This was treated not only as philosophy, but as a testable premise.
 
 In order to explore it, the **Division of Gravitational Cognition** built rotational gravity chambers, sensory deprivation tanks, and rhythmic entrainment systems designed to push the human nervous system into extreme coherence. Subjects were exposed to variable gravity, rhythmic light, and carefully tuned auditory patterns in the 150–170 BPM range. The goal was synchronization: aligning neural oscillations with controlled environmental fields.
 
-Again and again, instruments detected resonance near 7.83 Hz — the planet’s baseline frequency. This suggested the experiments were not generating effects from nothing, but tapping into something already present.
+Again and again, instruments detected resonance near 7.83 Hz - the planet’s baseline frequency. This suggested the experiments were not generating effects from nothing, but tapping into something already present.
 
 From the beginning, the challenge was not only measuring what happened, but explaining it.
 
@@ -26,9 +26,9 @@ Kerr was not a monster. He was a theorist. He warned repeatedly against mistakin
 
 That responsibility fell increasingly to Dr. Ravel.
 
-Ravel was not Saint Juniper’s founder. He was sent. When Saint Juniper’s early findings began to attract attention, Miter Corporation acquired the lab outright in 1994, folding it into a broader corporate research apparatus. With that acquisition came funding, secrecy, clearance tiers — and oversight.
+Ravel was not Saint Juniper’s founder. He was sent. When Saint Juniper’s early findings began to attract attention, Miter Corporation acquired the lab outright in 1994, folding it into a broader corporate research apparatus. With that acquisition came funding, secrecy, clearance tiers - and oversight.
 
-Ravel arrived as Miter’s representative: a scientist tasked with translating Kerr’s cautious framework into something operational. His role was never clearly defined on paper, but in practice he became the interpreter — the person responsible for translating subject experience into language that ethics boards, oversight committees, and administrators could tolerate.
+Ravel arrived as Miter’s representative: a scientist tasked with translating Kerr’s cautious framework into something operational. His role was never clearly defined on paper, but in practice he became the interpreter- the person responsible for translating subject experience into language that ethics boards, oversight committees, and administrators could tolerate.
 
 This is where the work changed.
 
@@ -43,7 +43,7 @@ Ravel did not.
 
 Kerr’s theory warned against confusing control with comprehension. Ravel inherited that warning and operationalized it, recognizing that Miter’s greatest control mechanism wasn’t technology, but language. He understood the playbook: soften the description, normalize the outcome, and keep the work legible to oversight. He implemented that system faithfully, aware that what the subjects experienced could never be fully contained by it.
 
-Under Miter, experiments were reorganized into formal cohorts — deprivation (Rabbits), gravitational entrainment (Moths), and spontaneous interference (Snakes) — with composite trials combining all protocols. Some participants were quietly reclassified as “naturally gifted.” Others were logged as psychosomatic anomalies pending verification.
+Under Miter, experiments were reorganized into formal cohorts - deprivation (Rabbits), gravitational entrainment (Moths), and spontaneous interference (Snakes) - with composite trials combining all protocols. Some participants were quietly reclassified as “naturally gifted.” Others were logged as psychosomatic anomalies pending verification.
 
 During one Series B review, Ravel wrote a sentence that circulated informally through internal files, never appearing in official documentation:
 
@@ -64,7 +64,7 @@ In 1999, local reports surfaced of a missing teenager named Kai Shepherd, last s
 
 Internal speculation later connected Kai Shepherd to Subject G-304. The age, timing, and biometric gaps aligned too cleanly to ignore. No official acknowledgment was ever made.
 
-Despite repeated injuries during external deployments — missions whose environments were consistently redacted — G-304 was redeployed again and again. He returned with unexplained materials: metallic lattices inconsistent with known alloys, melted glass sheets, organic residues no one could classify. Often he had no recall of where he had been. Occasionally he said things that unsettled handlers.
+Despite repeated injuries during external deployments - missions whose environments were consistently redacted - G-304 was redeployed again and again. He returned with unexplained materials: metallic lattices inconsistent with known alloys, melted glass sheets, organic residues no one could classify. Often he had no recall of where he had been. Occasionally he said things that unsettled handlers.
 
 Ravel flagged these moments as ethically unresolved.
 Miter classified them as operational noise.
@@ -75,11 +75,11 @@ At 09:22, G-304’s neural activity dropped to zero for over two minutes. Immedi
 
 When power returned, the chamber was empty.
 
-There is no verifiable record of the departure. Door logs are blank. The release signal cannot be traced. The initial internal label — “ascension event” — was swiftly prohibited and replaced with neutral language. Ravel’s notes from the audit period were heavily redacted.
+There is no verifiable record of the departure. Door logs are blank. The release signal cannot be traced. The initial internal label - “ascension event” - was swiftly prohibited and replaced with neutral language. Ravel’s notes from the audit period were heavily redacted.
 
 What followed first was not recovery, but containment of interpretation.
 
-Field monitors recorded inverted polarity for days. External sensor arrays belonging to consortium partners registered alignment events that could not be explained as residual decay. Internal correspondence reveals mounting concern that the disturbance behaved like a mobile carrier rather than a fixed anomaly — a possibility leadership refused to name.
+Field monitors recorded inverted polarity for days. External sensor arrays belonging to consortium partners registered alignment events that could not be explained as residual decay. Internal correspondence reveals mounting concern that the disturbance behaved like a mobile carrier rather than a fixed anomaly - a possibility leadership refused to name.
 
 Remote viewing attempts failed entirely. Readers could not establish anchor locks. Imagery collapsed before forming. Drift suggested motion without a stable spatial reference. The preliminary conclusion was blunt: Subject G-304 was not observable using standard methodologies. The reference field used for acquisition no longer existed.
 
@@ -87,16 +87,16 @@ Meanwhile, staff witnesses were silenced. Logs were frozen. Reports were rewritt
 
 They failed.
 
-Pieces leaked. Symbols spread. The red ears became a signal that transcended the subject himself. In 1999, a loose network calling itself The Bloc began circulating internal documents, reframing G-304 as proof that enforced coherence fails — that individuality resists homogenization.
+Pieces leaked. Symbols spread. The red ears became a signal that transcended the subject himself. In 1999, a loose network calling itself The Bloc began circulating internal documents, reframing G-304 as proof that enforced coherence fails - that individuality resists homogenization.
 
-Through hacked Miter files, The Bloc uncovered the true name of the overarching program: Harmony — a framework focused on sedation, unification, and control.
+Through hacked Miter files, The Bloc uncovered the true name of the overarching program: Harmony - a framework focused on sedation, unification, and control.
 
 To them, G-304 was no longer a subject.
 He was G\*BOY.
 
 By then, it was already too late to put the story back in the box. The idea had acquired mass. Attention clustered. The field did not decay.
 
-Miter continues to search — officially for an unreturned subject, unofficially for a way to reassert control over a framework that no longer holds.
+Miter continues to search - officially for an unreturned subject, unofficially for a way to reassert control over a framework that no longer holds.
 
 Ravel’s final known contribution to the archive is not a conclusion, but a sentence he struck from his last ethics draft before submission:
 
