@@ -1,5 +1,5 @@
 ---
-title: "Neuko.ai TV Portal (Post #15) - Cipher Chain & Takeover Archive"
+title: "Post #15 - Cipher Chain & Takeover Archive"
 description: "Post #15 escalated the NeukoAI ARG into a full cipher chain involving QR codes, Pastebins, classical cryptography, and a locked takeover archive."
 date: "2025-12-19"
 author: "@DendiRedemption"
@@ -7,7 +7,7 @@ tags: ["ARG", "NeukoAI", "GBOY", "Cipher", "Pastebin", "ZIP", "Lore"]
 draft: false
 ---
 
-# Neuko.ai TV Portal (Post #15) – Cipher Chain & Takeover Archive
+# Post #15 – Cipher Chain & Takeover Archive
 
 > **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
