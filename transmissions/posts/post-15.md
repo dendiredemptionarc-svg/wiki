@@ -1,5 +1,5 @@
 ---
-title: "Post #15 - Cipher Chain & Takeover Archive"
+title: "Cipher Chain (Post #15) - Takeover Archive"
 description: "Post #15 escalated the NeukoAI ARG into a full cipher chain involving QR codes, Pastebins, classical cryptography, and a locked takeover archive."
 date: "2025-12-19"
 author: "@DendiRedemption"
@@ -7,7 +7,7 @@ tags: ["ARG", "NeukoAI", "GBOY", "Cipher", "Pastebin", "ZIP", "Lore"]
 draft: false
 ---
 
-# Post #15 – Cipher Chain & Takeover Archive
+# Cipher Chain (Post #15) - Takeover Archive
 
 > **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
@@ -242,4 +242,4 @@ Those who followed the full path didn’t just unlock files - they proved themse
 ## Related Posts
 
 * [Post #14: TBD](post-14.md) - Previous post
-* [Post #16: TBD](post-16.md) - Next post
+* [Post #16: Return to Sender](post-16.md) - Next post
