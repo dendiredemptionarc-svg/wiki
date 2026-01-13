@@ -4,4 +4,4 @@ hide_home_elements: true
 title: Spectrogram Analyzer
 ---
 
-<SpectrogramTool />
+<SteganographyTool />
