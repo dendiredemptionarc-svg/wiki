@@ -10,7 +10,7 @@ author: "@DendiRedemption"
 
 On **December 9**, NeukoAI published **Post #16**, delivering one of the most unexpected moments so far in the unfolding narrative.
 
-<video controls width="100%"><source src="../../media/videos/posts/post16.mp4" type="video/mp4"></video>
+<video controls width="100%"><source src="../../media/videos/posts/post_2025_12_09.mp4" type="video/mp4"></video>
 
 The message was simple, but shocking.
 
