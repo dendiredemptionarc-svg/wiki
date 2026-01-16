@@ -101,4 +101,4 @@ The Bloc writes its own punchlines.
 ## Related Posts
 
 * [Post #15: Takeover Archive](post-15.md) - Previous post
-* [Post #17: TBD](post-17.md) - Next post
+<!-- * [Post #17: TBD](post-17.md) - Next post -->
