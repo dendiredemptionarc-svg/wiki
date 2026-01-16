@@ -22,7 +22,7 @@ Post #15 marked a shift from passive observation to an explicit **cipher chain**
 ## The Post
 
 <video controls width="100%">
-  <source src="../../media/videos/posts/post_2025_12_03.mp4" type="video/mp4">
+  <source src="../../media/videos/posts/post_2025_12_3.mp4" type="video/mp4">
 </video>
 
 At the timing of "00:08", a **QR code** flashes briefly on screen.
