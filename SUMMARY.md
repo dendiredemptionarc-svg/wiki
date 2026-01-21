@@ -25,6 +25,8 @@
   * [Post 12: \[Title TBD\]](transmissions/posts/post-12.md)
   * [Post 13: \[Title TBD\]](transmissions/posts/post-13.md)
   * [Post 14: \[Title TBD\]](transmissions/posts/post-14.md)
+  * [Post 15: Cipher Chain](transmissions/posts/post-15.md)
+  * [Post 16: Return to Sender](transmissions/posts/post-16.md)
 
 
 ## The Ecosystem

@@ -23,6 +23,9 @@ All posts are documented individually:
 * [**Post #11: \[Title TBD\]**](posts/post-11.md) - November 14, 2025
 * [**Post #12: \[Title TBD\]**](posts/post-12.md) - November 19, 2025
 * [**Post #13: \[Title TBD\]**](posts/post-13.md) - _(Date TBD)_
+* [**Post #14: \[Title TBD\]**](posts/post-14.md) - _(Date TBD)_
+* [**Post #15: Cipher Chain - Takeover Archive**](posts/post-15.md) - December 3, 2025
+* [**Post #16: Return to Sender**](posts/post-16.md) - December 9, 2025
 
 ## Engagement Summary
 
