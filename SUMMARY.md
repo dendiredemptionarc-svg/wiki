@@ -32,6 +32,7 @@
 ## The Ecosystem
 
 * [Badges](badges.md)
+* [Comics](comics.md)
 * [G*BOY Statues](gboy-statues.md)
 * [Community](community/overview.md)
 * [Pathogenz TCG](pathogenz.md)
