@@ -34,6 +34,7 @@
 * [Badges](badges.md)
 * [G*BOY Statues](gboy-statues.md)
 * [Community](community/overview.md)
+* [Pathogenz TCG](pathogenz.md)
 * [Team](team.md)
 * [Website](website.md)
 
