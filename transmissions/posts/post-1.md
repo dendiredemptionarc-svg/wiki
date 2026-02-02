@@ -1,10 +1,27 @@
-# Post 1
+## First Sighting
 
-**Date**: October 11, 2025\
-**Post**: [View on X](https://x.com/neukoai/status/1976994494383112304)\
-**Caption**: "i stood up i fell over i wept on the floor"\
+**October 11, 2025**
+
+It was never the same after [Post #1](https://x.com/neukoai/status/1976994494383112304).
+<br>
+
+<blockquote>
+  <p style="font-size:2.4em; line-height:1.2; font-style:italic; margin:0;">
+    i stood up<br>
+    i fell over<br>
+    i wept on the floor
+  </p>
+  <p style="margin-top:0.5em; font-size:1em; opacity:0.8;">
+     <a href="https://x.com/neukoai" target="_blank">@neukoai</a>
+  </p>
+</blockquote>
+
+---
+
+<br>
+
 ![Post 1 Image](../../.gitbook/assets/post_2025_10_11.png)
 
-## Related Posts
+<br>
 
-* [Post #2: Official Launch](post-2.md) - First video post
+[index0]
