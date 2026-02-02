@@ -1,36 +1,42 @@
-# Post 2
+## Post 2: The Beginning
 
-**Date**: October 13, 2025, 8:48 AM UTC\
-**Post**: [View on X](https://x.com/neukoai/status/1977763395408429229)\
-**Caption**: "we're watching"\
-**Video Duration**: \~10 seconds
+A day later on October 13, 2025 it began. 
+
+We recieved a message: 
+
+
+<blockquote>
+  <p style="font-size:2.4em; line-height:1.2; font-style:italic; margin:0;">
+  we're watching
+  </p>
+</blockquote>
+
+<br>
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_13.mp4" type="video/mp4"></video>
 
-## Engagement
+<br>
 
-* 123K+ views organically
-* Average 1K-3K likes, 200-700 reposts, 100K+ views
-* Viral spread to timelines of people who usually only see DeFi content
+A video appeared featuring a theme music and **six distinctive attributes**:
 
-## Puzzle/Lore Hooks
+- Red hood with horns  
+- Yellow T-shirt  
+- Pale green shorts  
+- Purple and white high-top sneakers  
+- Pure black skin  
+- White eyes with a grin  
 
-* Establishes surveillance motif ("we're watching")
-* Introduces G\*Boy character (hooded figure)
-* Lab setting suggests experiments/research facility
+It quickly grabbed the attention of the **CT**, and speculation began almost immediately.
 
+One of the founders of NeukoAI, **[Austin](https://x.com/austin_hurwitz)** also left a **🕒 clock emoji** under the post - a subtle hint that whatever this was, it definitely is **time-sensitive**.
 
-## Puzzle Elements
+<br>
 
-None discovered - visual storytelling establishes foundation for future puzzles.
+![tweet](https://raw.githubusercontent.com/dendiredemptionarc-svg/wiki/main/.gitbook/assets/austinpostoctober13.jpg)
 
-
-
-## Significance
-
-Official launch. This is the first time we heard the neuko theme music which was used throughout future videos.
+[index0]
 
 ## Related Posts
 
-* [Post #1: First Teaser](post-1.md) - Previous teaser
-* [Post #3: Badge Tease](post-3.md) - Next post
+* [Post #1: First sighting](post-1.md) - Previous post
+* [Post #3: Cognitive assesment](post-3.md) - Next post
