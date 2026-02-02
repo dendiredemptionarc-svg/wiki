@@ -1,4 +1,4 @@
-## First Sighting
+## Post 1: First Sighting
 
 **October 11, 2025**
 
