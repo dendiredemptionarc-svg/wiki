@@ -23,5 +23,8 @@ It was never the same after [Post #1](https://x.com/neukoai/status/1976994494383
 ![Post 1 Image](../../.gitbook/assets/post_2025_10_11.png)
 
 <br>
-
 [index0]
+
+## Related Posts
+
+* [Post #2: The Beginning](post-2.md) - Next post
