@@ -69,5 +69,5 @@ But what are those snakes?
 [index0]
 
 ## Related Posts
-* [Post #2: Cognitive assessment](post-3.md) - Previous post
+* [Post #3: Cognitive assessment](post-3.md) - Previous post
 * [Post #5: Distribution complete](post-5.md) - Next post
