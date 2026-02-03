@@ -3,7 +3,7 @@ title: "Post 3: Cognitive Assessment"
 author: "@DendiRedemption"
 ---
 
-## Post 3: Cognitive Assessment
+# Post 3: Cognitive Assessment
 > **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
 It didn’t take long.
