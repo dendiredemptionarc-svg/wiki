@@ -1,4 +1,10 @@
-## Post 1: First Sighting
+---
+title: "Post 1: First Sighting"
+author: "@DendiRedemption"
+---
+
+# Post 1: First Sighting
+> **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
 **October 11, 2025**
 
