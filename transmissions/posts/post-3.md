@@ -38,6 +38,6 @@ That’s the moment when **CT truly blew up**.
 
 ## Related Posts
 * [Post #2: The Beginning](post-2.md) - Previous post
-* [Post #4: Assesment concluded](post-4.md) - Next post
+* [Post #4: Assessment concluded](post-4.md) - Next post
 
 
