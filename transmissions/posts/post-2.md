@@ -1,16 +1,16 @@
-## Post 2: The Beginning
+---
+title: "Post 2: The Beginning"
+author: "@DendiRedemption"
+---
+
+# Post 2: The Beginning
+> **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
 A day later on October 13, 2025 it began. 
 
 We recieved a message: 
-
-
-<blockquote>
-  <p style="font-size:2.4em; line-height:1.2; font-style:italic; margin:0;">
-  we're watching
-  </p>
-</blockquote>
-
+<br>
+### **we're watching**
 <br>
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_13.mp4" type="video/mp4"></video>
