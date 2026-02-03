@@ -1,57 +1,73 @@
-# Post 4
+---
+title: "Post 4: Assessment Concluded"
+author: "@DendiRedemption"
+---
 
-**Date**: October 20, 2025\
-**Post**: [View on X](https://x.com/neukoai/status/1980355518771392550)\
-**Caption**: _(blank)_\
-**Video Duration**: \~48 seconds
+# Post 4: Assessment Concluded
+> **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
-## Video & Description
+Three days passed.  
+The assessment was complete.
+
+On **October 20, 2025**, **[Post 4](https://x.com/neukoai/status/1980355518771392550)** was released.
+
+<br>
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_20.mp4" type="video/mp4"></video>
 
-* Black screen with "STOP" text
-* Breathing instructions with countdowns ("Breathe In/Out")
-* Flashes anime-style images:
-  * Hospital scenes
-  * Animals (rabbit, dog, tiger)
-  * Forest
-  * Fire
-* Ends with "Cognitive Assessment Complete" text
-* Badge requirements displayed:
-  * 662 total badges
-  * 200 Rabbit 🐰
-  * 462 Moth 🐝
-* Instructions: DM Solana address within 24 hours
-* Style: Chaotic, psychological
+<br>
 
-## Requirements
+The video opens on a **black screen** with a single word:
+<br>
+### **STOP**
+<br>
 
-* 662 total badges (200 Rabbit 🐰, 462 Moth 🐝)
-* 24-hour deadline to DM Solana wallet address
+This is followed by **breathing instructions**, accompanied by countdown timers:
 
-## Puzzle/Lore Hooks
+### **Breathe In** - 4 seconds  / **Breathe Out** - 4 seconds / **Breathe In** - 4 seconds
 
-* Establishes "cognitive assessment" lore concept
-* Psychological testing theme
-* Animal imagery connects to badge types
-* Time pressure (24-hour deadline)
+We are then instructed to **HOLD/FOCUS** our breath, as an **anime-stylized sequence** begins - deliberately unsettling, and impossible to ignore.
 
-## Puzzle Elements
+After the sequence ends, a prompt appears:
+<br>
+### **Good Work**
+<br>
 
-None discovered - establishes lore and distribution requirements.
+Once again, we are asked to **breathe out**, with a final **4-second countdown**.
 
-## Community Reactions
+## Assessment Results
 
-* Chaos and excitement
-* People scrambling to DM wallets
-* KOLs and influencers frustrated (no backdoor deals)
-* Market was down, but timeline was hyped
+The focus of the video becomes clear.
 
-## Significance
+We are presented with the **assessment distribution**:
 
-First badge distribution phase begins.
+- **Cognitive assessment passed:** 1000 users  
+- **Rabbit:** 250  
+- **Moth:** 750  
+- **Snake:** Undefined  
+
+An intake window is announced.
+
+<br>
+
+![intakehours](https://raw.githubusercontent.com/dendiredemptionarc-svg/wiki/main/.gitbook/assets/hours.png)
+
+<br>
+
+Instructions are clear:
+
+- Respond to the DM with a **Solana wallet address**
+- **Within 24 hours**
+- Failure to respond results in **loss of the badge**
+
+The assessment was over.  
+The countdown had begun.  
+But what are those snakes?
+
+
+
+[index0]
 
 ## Related Posts
-
-* [Post #3: Badge Tease](post-3.md) - Previous post
-* [Post #5: Distribution Complete](post-5.md) - Badges distributed
+* [Post #2: Cognitive assessment](post-3.md) - Previous post
+* [Post #5: Distribution complete](post-5.md) - Next post
