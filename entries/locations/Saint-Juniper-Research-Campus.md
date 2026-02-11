@@ -57,6 +57,7 @@ The current operational status of the facility remains unclear. The Bloc claims 
 - [The Bloc](../organizations/The-Bloc.md) — Activist organization investigating facility
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder
 - [Dr. Ravel](../people/Dr-Ravel.md) — Facility administrator
+- [Dr. E. Kerr](../people/Dr-Kerr.md) — Division Director
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner conducting cross-divisional analysis
 - [Hill Devil State Park](Hill-Devil-State-Park.md) — Alleged facility location
 - [Saint Juniper](Saint-Juniper.md) — Nearby town

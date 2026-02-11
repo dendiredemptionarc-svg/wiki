@@ -27,7 +27,12 @@ A collaborative wiki documenting the leaked files, recovered testimony, and ongo
 
 ### Organizations
 
-*Planned:* [The Bloc](entries/organizations/The-Bloc.md), [Miter Corporation](entries/organizations/Miter-Corporation.md), [Nocturne Squadron](entries/organizations/Nocturne-Squadron.md)
+|| Display Name | File | Description |
+||---|---|---|
+|| [Miter Corporation](entries/organizations/Miter-Corporation.md) | `entries/organizations/Miter-Corporation.md` | Defense contractor; Saint Juniper partner; Variable-G trials |
+|| [Aurelian Systems](entries/organizations/Aurelian-Systems.md) | `entries/organizations/Aurelian-Systems.md` | Harmony manufacturer; IRIS developer; research partner |
+
+*Planned:* [The Bloc](entries/organizations/The-Bloc.md), [Nocturne Squadron](entries/organizations/Nocturne-Squadron.md)
 
 ### Places
 

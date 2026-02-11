@@ -124,8 +124,9 @@ This suggests Aurelian maintains sophisticated audio analysis capabilities and a
 - [Harmony](../concepts/Harmony.md)
 - [IRIS](../technology/IRIS.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
+- [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Dr. Vasquez](../people/Dr-Vasquez.md)
-- [G-304](../subjects/G-304.md)
+- [G*BOY (G-304)](../subjects/G-BOY.md)
 - [Patient A.V.](../people/Patient-A-V.md)
 
 ## References
