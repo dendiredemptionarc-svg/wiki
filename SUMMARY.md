@@ -10,6 +10,12 @@
 ## The Story
 
 * [Lore](lore.md)
+* [Encyclopedia](lore-encyclopedia.md)
+  * [G*BOY](entries/subjects/G-BOY.md)
+  * [Z*L1NE](entries/people/Z-L1NE.md)
+  * [Harmony](entries/concepts/Harmony.md)
+  * [IRIS](entries/technology/IRIS.md)
+  * [Aurelian Systems](entries/organizations/Aurelian-Systems.md)
 * [Transmissions](transmissions/overview.md)
   * [Post 1: First Teaser](transmissions/posts/post-1.md)
   * [Post 2: We're Watching](transmissions/posts/post-2.md)
