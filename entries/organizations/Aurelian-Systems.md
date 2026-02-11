@@ -81,8 +81,8 @@ Aurelian maintains relationships with multiple research divisions and corporate 
 
 - **Chryson Dynamics**: Access to acoustic anomaly databases and resonance scan data
 - **Miter Corporation**: Conditioning program data, G-Class subject trial results
-- **Unnamed affiliate programs**: Recipients of non-responsive patient referrals
-- **Research partners**: Entities conducting "further evaluation" of resistant individuals
+- **Cognitive Baseline Research Group**: Miter Corporation subsidiary that recruits non-responsive Harmony patients for cognitive assessments and neural baseline studies; led by Dr. Patricia Kemper
+- **Research partners**: Additional entities conducting "further evaluation" of resistant individuals
 
 ## Clinical Oversight Methods
 
@@ -96,7 +96,7 @@ Following receipt of a sample from Aurelian, Dr. Vasquez left a second voicemail
 
 Aurelian's prescribing guidelines explicitly prohibit discontinuation of Harmony even when patients show no response after four weeks. Instead, providers are directed to contact Aurelian's clinical support for guidance.
 
-Non-responsive patients may be referred to unnamed "affiliate programs" or "research partners" for "further evaluation." These referrals appear to target individuals who resist Harmony's effects, suggesting systematic identification and study of resistant populations.
+Non-responsive patients may be referred to "affiliate programs" or "research partners" for "further evaluation." One documented affiliate is the Cognitive Baseline Research Group, a Miter Corporation subsidiary that contacts non-responsive patients directly, offering payment ($500) for cognitive assessments, brain scans, and neural baseline studies. These referrals systematically identify and study individuals who resist Harmony's effects.
 
 ## Legal and Regulatory Disclaimers
 

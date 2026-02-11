@@ -103,7 +103,7 @@ A subset of individuals show complete non-response to Harmony, experiencing no e
 - Question whether other people have changed
 - Are systematically identified and tracked by the IRIS system
 
-Non-responsive patients may be referred to unnamed "affiliate programs" or "research partners" for "further evaluation." One documented case (Patient A.V., mid-twenties female) was flagged after reporting everyone around her felt different while she remained unchanged.
+Non-responsive patients may be referred to "affiliate programs" or "research partners" for "further evaluation." One documented affiliate, the Cognitive Baseline Research Group (a Miter Corporation subsidiary led by Dr. Patricia Kemper), contacts non-responsive patients directly, offering payment for cognitive assessments and brain scans to study their "neural baseline."
 
 Healthcare providers are instructed to contact Aurelian's clinical support division when encountering non-responsive cases, preventing discontinuation and ensuring corporate oversight of resistant individuals.
 
