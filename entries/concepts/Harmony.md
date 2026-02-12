@@ -213,9 +213,6 @@ The medication is presented as solution to reasonable responses to genuinely dif
 - [IRIS](../technology/IRIS.md)
 - [Aurelian Systems](../organizations/Aurelian-Systems.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
-- [Dr. Vasquez](../people/Dr-Vasquez.md)
-- [Patient A.V.](../people/Patient-A-V.md)
-- [Gram Gram](../people/Gram-Gram.md)
 
 ## References
 

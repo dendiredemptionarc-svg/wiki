@@ -8,7 +8,7 @@
 
 ---
 
-**G*BOY** (officially designated **Subject G-304**) is a former research subject who escaped from the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in the early 2000s. The escape, which resulted in a facility-wide security failure, drew widespread attention and made G*BOY a symbolic figure for [The Bloc](../organizations/The-Bloc.md), an activist organization investigating alleged corporate research misconduct.
+**G*BOY** (officially designated **Subject G-304**) is a former research subject who escaped from the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in the early 2000s. The escape, which resulted in a facility-wide security failure, drew widespread attention and made G*BOY a symbolic figure for The Bloc, an activist organization investigating alleged corporate research misconduct.
 
 **At a glance**
 
@@ -21,7 +21,7 @@
 
 ## Overview
 
-Subject G-304 was held at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) as part of what [The Bloc](../organizations/The-Bloc.md) alleges to be unauthorized research programs conducted by the [Miter Corporation](../organizations/Miter-Corporation.md). The subject's escape in the early 2000s resulted in a major facility security breach and triggered recovery operations that, according to facility administrators, proved unsuccessful.
+Subject G-304 was held at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) as part of what The Bloc alleges to be unauthorized research programs conducted by the [Miter Corporation](../organizations/Miter-Corporation.md). The subject's escape in the early 2000s resulted in a major facility security breach and triggered recovery operations that, according to facility administrators, proved unsuccessful.
 
 The subject became widely known following The Bloc's public awareness campaign, which adopted the red-hooded figure as a symbol of resistance against alleged corporate misconduct. The distinctive appearance and circumstances of the escape contributed to G*BOY becoming a cultural icon within activist communities.
 
@@ -35,7 +35,7 @@ The facility has not released official statements regarding the nature of resear
 
 In the early 2000s, G-304 escaped from the Saint Juniper Research Campus in an incident that resulted in significant facility damage and a facility-wide power failure. The Bloc obtained and circulated security footage showing the escape, which depicted extensive structural damage and what appeared to be unusual environmental conditions during the breach.
 
-Following the escape, facility administrator [Dr. Ravel](../people/Dr-Ravel.md) announced that G-304 had been located and that recovery operations led by [Agent K](../people/Agent-K.md) and [Nocturne Squadron](../organizations/Nocturne-Squadron.md) were underway. However, this broadcast was interrupted by [Z*L1NE](../people/Z-L1NE.md) of The Bloc, who delivered a counter-message to facility personnel. G-304's whereabouts remain unknown, and no official confirmation of recapture has been issued.
+Following the escape, facility administrator Dr. Ravel announced that G-304 had been located and that recovery operations led by Agent K and Nocturne Squadron were underway. However, this broadcast was interrupted by [Z*L1NE](../people/Z-L1NE.md) of The Bloc, who delivered a counter-message to facility personnel. G-304's whereabouts remain unknown, and no official confirmation of recapture has been issued.
 
 ## Cultural impact
 
@@ -45,18 +45,14 @@ The visual iconography proved effective at raising awareness of The Bloc's alleg
 
 ## Historical claims
 
-[Magdalena](../people/Magdalena.md), operator of the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) and early supporter of The Bloc, has claimed that figures resembling G*BOY appear in historical artifacts and ancient texts in her collection. She reports possessing a statue that allegedly predates modern records of G-304's existence. These claims remain unverified by independent scholars, though they have contributed to G*BOY's mythological status within activist and paranormal research communities.
+Magdalena, operator of the St. Juniper Paranormal Museum and early supporter of The Bloc, has claimed that figures resembling G*BOY appear in historical artifacts and ancient texts in her collection. She reports possessing a statue that allegedly predates modern records of G-304's existence. These claims remain unverified by independent scholars, though they have contributed to G*BOY's mythological status within activist and paranormal research communities.
 
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
-- [The Bloc](../organizations/The-Bloc.md) — Activist organization
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, broadcast hijacker
-- [Dr. Ravel](../people/Dr-Ravel.md) — Facility administrator
-- [Agent K](../people/Agent-K.md) — Recovery operations coordinator
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner analyzing G-304 modulation trials
-- [Magdalena](../people/Magdalena.md) — Museum operator, historical claims
 
 ## References
 

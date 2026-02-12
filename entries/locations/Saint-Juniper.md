@@ -8,7 +8,7 @@
 
 ---
 
-**Saint Juniper** is a town of approximately 38,000 people in California, situated in a pine forest region. The town is known as the birthplace of [The Bloc](../organizations/The-Bloc.md), an activist organization that investigates alleged corporate research misconduct, and for its proximity to [Hill Devil State Park](Hill-Devil-State-Park.md), the alleged site of a controversial research facility.
+**Saint Juniper** is a town of approximately 38,000 people in California, situated in a pine forest region. The town is known as the birthplace of The Bloc, an activist organization that investigates alleged corporate research misconduct, and for its proximity to Hill Devil State Park, the alleged site of a controversial research facility.
 
 **At a glance**
 
@@ -20,16 +20,16 @@
 
 ## Overview
 
-Saint Juniper is a small town located in a forested region of California. The community gained regional attention in the late 1990s due to a series of unexplained disappearances centered around [Hill Devil State Park](Hill-Devil-State-Park.md), a popular recreation area adjacent to the town.
+Saint Juniper is a small town located in a forested region of California. The community gained regional attention in the late 1990s due to a series of unexplained disappearances centered around Hill Devil State Park, a popular recreation area adjacent to the town.
 
-These incidents prompted several local residents to form [The Bloc](../organizations/The-Bloc.md), an activist organization dedicated to investigating the disappearances and their potential connection to alleged unauthorized research activities in the area. The organization was founded in 1999 by three individuals known by the aliases [Z*L1NE](../people/Z-L1NE.md), [1NK](../people/1NK.md), and [GUMM1](../people/GUMM1.md), who met while conducting independent research at the [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md).
+These incidents prompted several local residents to form The Bloc, an activist organization dedicated to investigating the disappearances and their potential connection to alleged unauthorized research activities in the area. The organization was founded in 1999 by three individuals known by the aliases [Z*L1NE](../people/Z-L1NE.md), 1NK, and GUMM1, who met while conducting independent research at the St. Juniper Paranormal Museum.
 
 The town has since become associated with The Bloc's ongoing investigation into what the organization alleges is a covert research facility operated near Hill Devil State Park.
 
 ## Notable locations
 
-- **[Hill Devil State Park](Hill-Devil-State-Park.md):** State park adjacent to Saint Juniper; site of unexplained disappearances in the late 1990s and alleged location of controversial research facility
-- **[St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md):** Occult bookshop and museum operated by [Magdalena](../people/Magdalena.md); served as meeting place for early Bloc members
+- **Hill Devil State Park:** State park adjacent to Saint Juniper; site of unexplained disappearances in the late 1990s and alleged location of controversial research facility
+- **St. Juniper Paranormal Museum:** Occult bookshop and museum operated by Magdalena; served as meeting place for early Bloc members
 - **[Saint Juniper Research Campus](Saint-Juniper-Research-Campus.md):** Alleged research facility in forested area near Hill Devil State Park (existence disputed)
 
 ## Community impact
@@ -40,9 +40,6 @@ Following the escape of research subject [G-304](../subjects/G-BOY.md) in the ea
 
 ## See Also
 
-- [The Bloc](../organizations/The-Bloc.md) — Activist organization founded in Saint Juniper
-- [Hill Devil State Park](Hill-Devil-State-Park.md) — Adjacent state park
-- [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md) — Local museum, early Bloc meeting place
 - [Saint Juniper Research Campus](Saint-Juniper-Research-Campus.md) — Alleged research facility
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, Saint Juniper resident
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject

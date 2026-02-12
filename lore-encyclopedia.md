@@ -6,8 +6,8 @@ A collaborative wiki documenting the leaked files, recovered testimony, and ongo
 
 ## Featured Articles
 
-- [G*BOY](entries/subjects/G-BOY.md) — The Tier-0 prototype, the vessel, the archetype. Escaped containment and embedded himself in [The Mindverse](entries/concepts/The-Mindverse.md).
-- [Z*L1NE](entries/people/Z-L1NE.md) — Co-founder of [The Bloc](entries/organizations/The-Bloc.md), communications infiltrator, and narrator of the resistance.
+- [G*BOY](entries/subjects/G-BOY.md) — The Tier-0 prototype, the vessel, the archetype. Escaped containment and embedded himself in The Mindverse.
+- [Z*L1NE](entries/people/Z-L1NE.md) — Co-founder of The Bloc, communications infiltrator, and narrator of the resistance.
 
 ---
 
@@ -32,27 +32,35 @@ A collaborative wiki documenting the leaked files, recovered testimony, and ongo
 || [Miter Corporation](entries/organizations/Miter-Corporation.md) | `entries/organizations/Miter-Corporation.md` | Defense contractor; Saint Juniper partner; Variable-G trials |
 || [Aurelian Systems](entries/organizations/Aurelian-Systems.md) | `entries/organizations/Aurelian-Systems.md` | Harmony manufacturer; IRIS developer; research partner |
 
-*Planned:* [The Bloc](entries/organizations/The-Bloc.md), [Nocturne Squadron](entries/organizations/Nocturne-Squadron.md)
+*Planned:* The Bloc, Nocturne Squadron
 
 ### Places
 
-*Planned:* [Saint Juniper Research Campus](entries/locations/Saint-Juniper-Research-Campus.md), [Hill Devil State Park](entries/locations/Hill-Devil-State-Park.md), [St. Juniper Paranormal Museum](entries/locations/St-Juniper-Paranormal-Museum.md), [Shinkai Metropolis](entries/locations/Shinkai-Metropolis.md)
+|| Display Name | File | Description |
+||---|---|---|
+|| [Saint Juniper Research Campus](entries/locations/Saint-Juniper-Research-Campus.md) | `entries/locations/Saint-Juniper-Research-Campus.md` | Alleged Miter Corporation research facility |
+
+*Planned:* Hill Devil State Park, St. Juniper Paranormal Museum, Shinkai Metropolis
 
 ### People (Researchers & Operatives)
 
-*Planned:* [Dr. Kerr](entries/people/Dr-Kerr.md), [Dr. Ravel](entries/people/Dr-Ravel.md), [Agent K](entries/people/Agent-K.md), [Erik Purdue](entries/people/Erik-Purdue.md), [Magdalena](entries/people/Magdalena.md), [1NK](entries/people/1NK.md), [GUMM1](entries/people/GUMM1.md)
+*Planned:* Dr. Kerr, Dr. Ravel, Agent K, Erik Purdue, Magdalena, 1NK, GUMM1
 
 ### Subjects & Entities
 
-*Planned:* [G-312](entries/subjects/G-312.md), [Blowpie](entries/subjects/Blowpie.md), [Oni King](entries/people/Oni-King.md), [Lucky Cat](entries/people/Lucky-Cat.md)
+*Planned:* G-312, Blowpie, Oni King, Lucky Cat
 
 ### Concepts & Programs
 
-*Planned:* [Variable-G Trials](entries/concepts/Variable-G-Trials.md), [Division of Gravitational Cognition](entries/concepts/Division-of-Gravitational-Cognition.md), [Harmony Program](entries/concepts/Harmony-Program.md), [The Mindverse](entries/concepts/The-Mindverse.md), [Obsidian Archive](entries/concepts/Obsidian-Archive.md)
+|| Display Name | File | Description |
+||---|---|---|
+|| [Harmony](entries/concepts/Harmony.md) | `entries/concepts/Harmony.md` | Psychiatric medication with AI monitoring |
+
+*Planned:* Variable-G Trials, Division of Gravitational Cognition, Harmony Program, The Mindverse, Obsidian Archive
 
 ### Documents & Artifacts
 
-*Planned:* [G*BOY Manifesto](entries/concepts/GBOY-Manifesto.md)
+*Planned:* G*BOY Manifesto
 
 ---
 

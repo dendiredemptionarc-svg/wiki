@@ -114,8 +114,6 @@ During one documented commercial broadcast, IRIS's voice exhibited a glitch, bec
 
 - [Harmony](../concepts/Harmony.md)
 - [Aurelian Systems](../organizations/Aurelian-Systems.md)
-- [Dr. Vasquez](../people/Dr-Vasquez.md)
-- [Patient A.V.](../people/Patient-A-V.md)
 
 ## References
 

@@ -8,7 +8,7 @@
 
 ---
 
-**Miter Corporation** is a defense contracting and research organization that partnered with [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in 1994 to fund and direct experimental research programs. According to activist organization [The Bloc](The-Bloc.md), the corporation conducts classified human experimentation under the guise of defense research, focusing on cognitive manipulation, consciousness studies, and what internal documents describe as "gravitational cognition."
+**Miter Corporation** is a defense contracting and research organization that partnered with [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in 1994 to fund and direct experimental research programs. According to activist organization The Bloc, the corporation conducts classified human experimentation under the guise of defense research, focusing on cognitive manipulation, consciousness studies, and what internal documents describe as "gravitational cognition."
 
 **At a glance**
 
@@ -17,25 +17,25 @@
 - Operates Division of Gravitational Cognition and Directorate of Cognitive Systems
 - Conducts Variable-G trials and human subject experimentation
 - Subject of investigation by The Bloc activist organization
-- Research partnerships with [Aurelian Systems](Aurelian-Systems.md) and Chryson Dynamics
+- Research partnerships with [Aurelian Systems](../organizations/Aurelian-Systems.md) and Chryson Dynamics
 - Site of major security breach involving escaped subject [G-304](../subjects/G-BOY.md)
 - Erik Purdue served as Director of Operations at Saint Juniper facility
 
 ## Overview
 
-Miter Corporation is publicly known as a defense contractor providing military technology and systems to the United States government. According to documents obtained by [The Bloc](The-Bloc.md), the corporation's primary focus extends beyond conventional weapons systems into research on human consciousness, cognitive manipulation, and what internal documents refer to as the relationship between mind and physical reality.
+Miter Corporation is publicly known as a defense contractor providing military technology and systems to the United States government. According to documents obtained by The Bloc, the corporation's primary focus extends beyond conventional weapons systems into research on human consciousness, cognitive manipulation, and what internal documents refer to as the relationship between mind and physical reality.
 
-The corporation entered formal partnership with [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in March 1994, assuming administrative oversight and providing expanded funding for ongoing work within the [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md). Internal memos describe their stated mandate as "to advance human endurance and adaptive biology under variable conditions," though The Bloc alleges the true purpose involves developing "psychic weapons" and methods of mass cognitive control.
+The corporation entered formal partnership with [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) in March 1994, assuming administrative oversight and providing expanded funding for ongoing work within the Division of Gravitational Cognition. Internal memos describe their stated mandate as "to advance human endurance and adaptive biology under variable conditions," though The Bloc alleges the true purpose involves developing "psychic weapons" and methods of mass cognitive control.
 
 ## History
 
 ### Early Research (pre-1994)
 
-Before partnering with Saint Juniper Research Campus, Miter Corporation's defense contracting work was publicly focused on conventional military technology including aircraft, explosives, and weapons systems. According to [The Bloc's G*BOY Manifesto](../concepts/GBOY-Manifesto.md), the corporation had been secretly "acquiring" specially able humans and subjecting them to trials designed to "awaken certain elements of their minds that allowed them to control reality in ways that have been previously relegated to fantasy stories or medieval magical treatise."
+Before partnering with Saint Juniper Research Campus, Miter Corporation's defense contracting work was publicly focused on conventional military technology including aircraft, explosives, and weapons systems. According to The Bloc's G*BOY Manifesto, the corporation had been secretly "acquiring" specially able humans and subjecting them to trials designed to "awaken certain elements of their minds that allowed them to control reality in ways that have been previously relegated to fantasy stories or medieval magical treatise."
 
 ### Saint Juniper Partnership (1994)
 
-On February 11, 1994, [Dr. E. Kerr](../people/Dr-Kerr.md), Director of the [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md), announced that Saint Juniper Research Campus would enter a formal partnership with Miter Corporation, effective March 1, 1994. The partnership followed eighteen months of negotiation.
+On February 11, 1994, Dr. E. Kerr, Director of the Division of Gravitational Cognition, announced that Saint Juniper Research Campus would enter a formal partnership with Miter Corporation, effective March 1, 1994. The partnership followed eighteen months of negotiation.
 
 Key changes implemented under Miter oversight:
 - Administrative takeover of the Division of Gravitational Cognition
@@ -48,7 +48,7 @@ Key changes implemented under Miter oversight:
 
 ### Variable-G Trials and Subject Acquisition
 
-Under Miter's direction, the [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md) conducted extensive human subject experimentation. The Variable-G trials involved:
+Under Miter's direction, the Division of Gravitational Cognition conducted extensive human subject experimentation. The Variable-G trials involved:
 - Rotational gravity chambers
 - Sensory deprivation systems
 - Rhythmic entrainment protocols (150-170 BPM range)
@@ -61,7 +61,7 @@ Subjects underwent what internal documents describe as "acquisition" and were cl
 
 A major security incident occurred when [G-304](../subjects/G-BOY.md) (known as G*BOY) escaped containment at the Saint Juniper facility. Internal documents show that Miter deployed remote viewing (RV) protocols in an attempt to locate the escaped subject, but all five RV attempts failed to achieve target acquisition.
 
-The failure report noted that G-304 appeared to be "not observable via standard Reader level RV methodology" and recommended escalation to Agent K, suggesting the escape disrupted the reference field previously used for tracking. This incident became a focal point for [The Bloc's](The-Bloc.md) allegations about the facility.
+The failure report noted that G-304 appeared to be "not observable via standard Reader level RV methodology" and recommended escalation to Agent K, suggesting the escape disrupted the reference field previously used for tracking. This incident became a focal point for The Bloc's allegations about the facility.
 
 ## Organizational Structure
 
@@ -79,7 +79,7 @@ Responsible for operational deployment of research subjects and remote viewing p
 
 ### Division of Gravitational Cognition
 
-Though technically part of Saint Juniper Research Campus, this division operated under Miter's administrative oversight and funding after the 1994 partnership. [Dr. E. Kerr](../people/Dr-Kerr.md) served as Director, with [Dr. Ravel](../people/Dr-Ravel.md) later assuming administrative responsibilities.
+Though technically part of Saint Juniper Research Campus, this division operated under Miter's administrative oversight and funding after the 1994 partnership. Dr. E. Kerr served as Director, with Dr. Ravel later assuming administrative responsibilities.
 
 ### Neuro-Behavioral Unit
 
@@ -108,13 +108,13 @@ Researchers identified a neural preservation artifact in [G-304](../subjects/G-B
 
 ### Aurelian Systems
 
-Miter Corporation maintains documented research relationships with [Aurelian Systems](Aurelian-Systems.md). Miter's conditioning program supplied Aurelian with audio logs from late-phase G-Class modulation experiments, specifically involving [Subject G-304](../subjects/G-BOY.md).
+Miter Corporation maintains documented research relationships with [Aurelian Systems](../organizations/Aurelian-Systems.md). Miter's conditioning program supplied Aurelian with audio logs from late-phase G-Class modulation experiments, specifically involving [Subject G-304](../subjects/G-BOY.md).
 
 Aurelian provided analysis of G-304's selective response to a 152 BPM composite pattern, which matched a prior acoustic anomaly recorded by Chryson Dynamics during an Arctic shelf survey in 1993. Aurelian recommended joint audit of Saint Juniper Research Campus historic audio archives and advised Miter not to include reference to rhythmic convergence in continuity reports.
 
 ### Cognitive Baseline Research Group
 
-A Miter Corporation subsidiary that recruits non-responsive [Harmony](../concepts/Harmony.md) patients for cognitive assessments and neural baseline studies. The group contacts patients identified through [Aurelian Systems](Aurelian-Systems.md)' clinical support network, offering payment ($500) for brain scans and cognitive testing. Led by Dr. Patricia Kemper, the group operates under the guise of studying "individual variation in response to medications."
+A Miter Corporation subsidiary that recruits non-responsive [Harmony](../concepts/Harmony.md) patients for cognitive assessments and neural baseline studies. The group contacts patients identified through [Aurelian Systems](../organizations/Aurelian-Systems.md)' clinical support network, offering payment ($500) for brain scans and cognitive testing. Led by Dr. Patricia Kemper, the group operates under the guise of studying "individual variation in response to medications."
 
 This subsidiary systematically identifies individuals who do not respond to Harmony medication, suggesting Miter maintains ongoing interest in subjects who resist cognitive influence.
 
@@ -126,7 +126,7 @@ Miter has access to Chryson Dynamics' acoustic anomaly databases and resonance s
 
 ### The Bloc's Claims
 
-According to [The Bloc](The-Bloc.md), an activist organization founded in 1999, Miter Corporation's "primary efforts were not in physical devices but in those of the human mind." The Bloc alleges that Miter:
+According to The Bloc, an activist organization founded in 1999, Miter Corporation's "primary efforts were not in physical devices but in those of the human mind." The Bloc alleges that Miter:
 
 - "Acquires" specially able humans for experimentation
 - Conducts unauthorized human trials involving children
@@ -173,21 +173,15 @@ The corporation's name appears in leaked internal documents, facility signage sh
 
 ## Current Status
 
-The operational status of Miter Corporation's research programs remains unclear. Following the G-304 security breach, [The Bloc](The-Bloc.md) claims that visible surface structures at Saint Juniper were abandoned and operations relocated underground. However, the Cognitive Baseline Research Group subsidiary continued recruiting non-responsive Harmony patients as late as 2000, suggesting ongoing research activities.
+The operational status of Miter Corporation's research programs remains unclear. Following the G-304 security breach, The Bloc claims that visible surface structures at Saint Juniper were abandoned and operations relocated underground. However, the Cognitive Baseline Research Group subsidiary continued recruiting non-responsive Harmony patients as late as 2000, suggesting ongoing research activities.
 
 Neither Miter Corporation nor affiliated entities have issued public statements regarding current operations, facility status, or responses to allegations made by The Bloc.
 
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Primary research facility
-- [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md) — Research division
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped Tier-0 prototype
-- [The Bloc](The-Bloc.md) — Activist organization investigating Miter
-- [Aurelian Systems](Aurelian-Systems.md) — Research partner, Harmony manufacturer
-- [Dr. E. Kerr](../people/Dr-Kerr.md) — Division Director
-- [Dr. Ravel](../people/Dr-Ravel.md) — Facility administrator
-- [Erik Purdue](../people/Erik-Purdue.md) — Director of Operations
-- [Harmony Program](../concepts/Harmony-Program.md) — Alleged mass control initiative
+- [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner, Harmony manufacturer
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder and investigator
 
 ## References

@@ -3,13 +3,13 @@
 ---
 **LOCATION TYPE**: Research Facility  
 **OPERATOR**: [Miter Corporation](../organizations/Miter-Corporation.md) (alleged)  
-**LOCATION**: Near [Hill Devil State Park](Hill-Devil-State-Park.md), [Saint Juniper](Saint-Juniper.md), California  
+**LOCATION**: Near Hill Devil State Park, [Saint Juniper](Saint-Juniper.md), California  
 **ESTABLISHED**: c. 1990s (alleged)  
 **STATUS**: Disputed; facility status unconfirmed  
 
 ---
 
-**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization [The Bloc](../organizations/The-Bloc.md), operates covertly in the forested areas near [Hill Devil State Park](Hill-Devil-State-Park.md) outside [Saint Juniper](Saint-Juniper.md), California. The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
+**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization The Bloc, operates covertly in the forested areas near Hill Devil State Park outside [Saint Juniper](Saint-Juniper.md), California. The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
 
 **At a glance**
 
@@ -22,7 +22,7 @@
 
 ## Overview
 
-The Saint Juniper Research Campus came to public attention through the investigative efforts of [The Bloc](../organizations/The-Bloc.md), an activist organization that alleges the facility conducts unauthorized human experimentation. According to The Bloc, the facility has operated since the 1990s under the direction of the [Miter Corporation](../organizations/Miter-Corporation.md), conducting research programs they characterize as unethical and potentially illegal.
+The Saint Juniper Research Campus came to public attention through the investigative efforts of The Bloc, an activist organization that alleges the facility conducts unauthorized human experimentation. According to The Bloc, the facility has operated since the 1990s under the direction of the [Miter Corporation](../organizations/Miter-Corporation.md), conducting research programs they characterize as unethical and potentially illegal.
 
 The facility's existence was largely unknown until the early 2000s, when a major security breach and the escape of research subject [G-304](../subjects/G-BOY.md) drew media coverage. Security footage released by The Bloc showed what appeared to be a large brutalist concrete structure in a forested setting, along with evidence of significant structural damage during the escape incident.
 
@@ -38,13 +38,13 @@ These allegations have not been independently verified, and no governmental inve
 
 ### Organizational structure
 
-The Bloc's documentation suggests the facility was originally established as an independent research operation before allegedly partnering with Miter Corporation in the mid-1990s. According to their materials, an individual identified as [Dr. E. Kerr](../people/Dr-Kerr.md) served as an early director, with [Dr. Ravel](../people/Dr-Ravel.md) later assuming administrative responsibilities.
+The Bloc's documentation suggests the facility was originally established as an independent research operation before allegedly partnering with Miter Corporation in the mid-1990s. According to their materials, an individual identified as Dr. E. Kerr served as an early director, with Dr. Ravel later assuming administrative responsibilities.
 
 ## The security breach
 
 In the early 2000s, a major security incident occurred at the alleged facility location. Security footage released by The Bloc showed significant structural damage and what appeared to be a facility-wide power failure. The incident coincided with the escape of [G-304](../subjects/G-BOY.md), a research subject whose existence was previously unknown to the public.
 
-Following the breach, [Dr. Ravel](../people/Dr-Ravel.md) appeared in a video transmission announcing that G-304 had been located and that recovery operations were underway. This transmission was interrupted by [Z*L1NE](../people/Z-L1NE.md) of The Bloc, who delivered a counter-message. The incident brought significant attention to The Bloc's allegations about the facility.
+Following the breach, Dr. Ravel appeared in a video transmission announcing that G-304 had been located and that recovery operations were underway. This transmission was interrupted by [Z*L1NE](../people/Z-L1NE.md) of The Bloc, who delivered a counter-message. The incident brought significant attention to The Bloc's allegations about the facility.
 
 ## Current status
 
@@ -54,12 +54,8 @@ The current operational status of the facility remains unclear. The Bloc claims 
 
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject
-- [The Bloc](../organizations/The-Bloc.md) — Activist organization investigating facility
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder
-- [Dr. Ravel](../people/Dr-Ravel.md) — Facility administrator
-- [Dr. E. Kerr](../people/Dr-Kerr.md) — Division Director
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner conducting cross-divisional analysis
-- [Hill Devil State Park](Hill-Devil-State-Park.md) — Alleged facility location
 - [Saint Juniper](Saint-Juniper.md) — Nearby town
 
 ## References
