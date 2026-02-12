@@ -75,6 +75,8 @@ The full scope of Agent K's role, organizational position, and capabilities rema
 - [G-304](../subjects/G-304.md)
 - [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
+- [The Bloc](../organizations/The-Bloc.md) — Activist organization targeted by Agent K's psychological operations
+- [Z*L1NE](Z-L1NE.md) — Bloc member subjected to Agent K communications
 - [Remote Viewing Program](../concepts/Remote-Viewing-Program.md)
 - [The Formation](../events/The-Formation.md)
 

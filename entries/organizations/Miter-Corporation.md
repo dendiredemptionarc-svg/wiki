@@ -180,9 +180,12 @@ Neither Miter Corporation nor affiliated entities have issued public statements 
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Primary research facility
+- [The Bloc](The-Bloc.md) — Activist organization investigating Miter operations
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped Tier-0 prototype
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner, Harmony manufacturer
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder and investigator
+- [1NK](../people/1NK.md) — Bloc co-founder who first accessed Miter systems
+- [GUMM1](../people/GUMM1.md) — Bloc co-founder and researcher
 
 ## References
 

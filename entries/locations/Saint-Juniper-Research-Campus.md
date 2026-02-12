@@ -53,8 +53,10 @@ The current operational status of the facility remains unclear. The Bloc claims 
 ## See Also
 
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
+- [The Bloc](../organizations/The-Bloc.md) — Activist organization investigating the facility
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject
-- [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder
+- [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder who hijacked facility broadcast
+- [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md) — Bloc headquarters location
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner conducting cross-divisional analysis
 - [Saint Juniper](Saint-Juniper.md) — Nearby town
 

@@ -50,6 +50,7 @@ The visual iconography proved effective at raising awareness of The Bloc's alleg
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
+- [The Bloc](../organizations/The-Bloc.md) — Activist organization that adopted G*BOY as symbol
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, broadcast hijacker
 - [Magdalena](../people/Magdalena.md) — Occult researcher with historical G*BOY artifacts
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Location of ancient statue resembling G*BOY
