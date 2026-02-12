@@ -13,7 +13,7 @@
 
 **At a glance**
 
-- Co-founded The Bloc (1999) with associates known as 1NK and GUMM1
+- Co-founded The Bloc (1999) with associates known as [1NK](1NK.md) and [GUMM1](GUMM1.md)
 - Co-authored *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999)
 - Infiltrated [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) communications networks
 - Hijacked facility broadcast to warn subjects of impending operations
@@ -21,7 +21,7 @@
 
 ## Overview
 
-Z*L1NE is one of three founding members of The Bloc, alongside 1NK and GUMM1. The organization was formed in 1999 following the discovery of what the group alleges to be illegal research operations conducted by the [Miter Corporation](../organizations/Miter-Corporation.md) at facilities near [Saint Juniper](../locations/Saint-Juniper.md). Z*L1NE specializes in infiltrating secure communications systems and gained public attention for hijacking a research facility broadcast.
+Z*L1NE is one of three founding members of The Bloc, alongside [1NK](1NK.md) and [GUMM1](GUMM1.md). The organization was formed in 1999 following the discovery of what the group alleges to be illegal research operations conducted by the [Miter Corporation](../organizations/Miter-Corporation.md) at facilities near [Saint Juniper](../locations/Saint-Juniper.md). Z*L1NE specializes in infiltrating secure communications systems and gained public attention for hijacking a research facility broadcast.
 
 The Bloc is an underground activist organization that investigates alleged human experimentation programs, particularly those involving subjects designated with "G-" prefixes. The group came to prominence following the escape of Subject G-304 (known as "[G*BOY](../subjects/G-BOY.md)") from the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md).
 
@@ -33,7 +33,7 @@ Rosaline grew up in Saint Juniper, California, and attended local schools throug
 
 ### Formation of The Bloc
 
-At the paranormal museum, Rosaline met two computer security researchers who used the aliases 1NK and GUMM1. The pair claimed to have discovered evidence of unauthorized human research programs conducted by the Miter Corporation at facilities near Hill Devil State Park. In 1999, the three founded The Bloc, a watchdog organization dedicated to exposing corporate malfeasance in the research sector.
+At the paranormal museum, Rosaline met two computer security researchers who used the aliases [1NK](1NK.md) and [GUMM1](GUMM1.md). The pair claimed to have discovered evidence of unauthorized human research programs conducted by the Miter Corporation at facilities near Hill Devil State Park. In 1999, the three founded The Bloc, a watchdog organization dedicated to exposing corporate malfeasance in the research sector.
 
 The group operated from basement facilities provided by Magdalena at the museum. The founding members published their core document, *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion*, in 1999, outlining their philosophy of resistance against what they termed "corporate cognitive manipulation."
 
@@ -63,9 +63,12 @@ The Bloc has claimed that Z*L1NE was targeted with psychological deterrence meas
 
 ## See Also
 
-- [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject
-- [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility investigated by The Bloc
-- [Miter Corporation](../organizations/Miter-Corporation.md) — Corporate entity under investigation
+- [1NK](1NK.md)
+- [GUMM1](GUMM1.md)
+- [The Bloc](../organizations/The-Bloc.md)
+- [G*BOY (Subject G-304)](../subjects/G-BOY.md)
+- [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
+- [Miter Corporation](../organizations/Miter-Corporation.md)
 
 ## References
 
