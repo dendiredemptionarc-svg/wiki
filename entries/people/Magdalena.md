@@ -8,11 +8,11 @@
 
 ---
 
-**Magdalena** is an American occult researcher and proprietor of the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) in Saint Juniper, California. She is best known for providing resources and facilities that enabled the formation of [The Bloc](../organizations/The-Bloc.md), an activist organization investigating alleged corporate misconduct by the [Miter Corporation](../organizations/Miter-Corporation.md).
+**Magdalena** is an American occult researcher and proprietor of the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) in Saint Juniper. She is best known for providing resources and facilities that enabled the formation of [The Bloc](../organizations/The-Bloc.md), an activist organization investigating alleged corporate misconduct by the [Miter Corporation](../organizations/Miter-Corporation.md).
 
 **At a glance**
 
-- Owner and operator of [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop in Saint Juniper, California
+- Owner and operator of [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop in Saint Juniper
 - Provided basement facilities that became headquarters for The Bloc (1999)
 - Mentored founding members [Z*L1NE](Z-L1NE.md), [1NK](1NK.md), and [GUMM1](GUMM1.md) in occult research
 - Possessed historical documentation showing [G*BOY](../subjects/G-BOY.md) as archetypal figure in ancient texts
@@ -20,7 +20,7 @@
 
 ## Overview
 
-Magdalena operates the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), a combination bookshop and repository of occult knowledge located in Saint Juniper, California. The [museum](../locations/St-Juniper-Paranormal-Museum.md) houses an extensive collection of rare books on paranormal phenomena, occult practices, and unexplained historical events. The establishment became significant to the Saint Juniper activist community when it served as the headquarters for The Bloc beginning in 1999.
+Magdalena operates the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), a combination bookshop and repository of occult knowledge located in Saint Juniper. The [museum](../locations/St-Juniper-Paranormal-Museum.md) houses an extensive collection of rare books on paranormal phenomena, occult practices, and unexplained historical events. The establishment became significant to the Saint Juniper activist community when it served as the headquarters for The Bloc beginning in 1999.
 
 Her expertise in occult symbolism and archetypal imagery proved instrumental to The Bloc's understanding of Subject [G-304](../subjects/G-BOY.md) and other subjects from the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md).
 
@@ -52,7 +52,7 @@ In the early 2000s, following the volunteer infiltration operation and subsequen
 
 ## Personal life
 
-Magdalena resides in Saint Juniper, California. She continues to operate the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) and maintain her collection of occult texts and artifacts. Her relationship with The Bloc remains active, with the organization continuing to use her facilities for research and operations.
+Magdalena resides in Saint Juniper. She continues to operate the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) and maintain her collection of occult texts and artifacts. Her relationship with The Bloc remains active, with the organization continuing to use her facilities for research and operations.
 
 ## Legacy
 

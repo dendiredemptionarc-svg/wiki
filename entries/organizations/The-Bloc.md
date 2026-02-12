@@ -3,13 +3,13 @@
 ---
 **TYPE**: Underground activist organization  
 **ESTABLISHED**: 1999  
-**LOCATION**: Saint Juniper, California  
+**LOCATION**: Saint Juniper  
 **HEADQUARTERS**: [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)  
 **STATUS**: Active  
 
 ---
 
-**The Bloc** is an underground activist organization based in Saint Juniper, California that investigates and exposes alleged illegal research operations conducted by the [Miter Corporation](Miter-Corporation.md) at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md). Founded in 1999 by three computer security researchers, the organization has gained prominence for recovering classified documents, infiltrating secure networks, and adopting escaped subject [G*BOY](../subjects/G-BOY.md) (designation G-304) as their symbol of resistance.
+**The Bloc** is an underground activist organization based in Saint Juniper that investigates and exposes alleged illegal research operations conducted by the [Miter Corporation](Miter-Corporation.md) at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md). Founded in 1999 by three computer security researchers, the organization has gained prominence for recovering classified documents, infiltrating secure networks, and adopting escaped subject [G*BOY](../subjects/G-BOY.md) (designation G-304) as their symbol of resistance.
 
 **At a glance**
 

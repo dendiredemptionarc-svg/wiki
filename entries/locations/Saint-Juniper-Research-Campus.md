@@ -3,13 +3,13 @@
 ---
 **LOCATION TYPE**: Research Facility  
 **OPERATOR**: [Miter Corporation](../organizations/Miter-Corporation.md) (alleged)  
-**LOCATION**: Near [Hill Devil State Park](Hill-Devil-State-Park.md), [Saint Juniper](Saint-Juniper.md), California  
+**LOCATION**: Near [Hill Devil State Park](Hill-Devil-State-Park.md), [Saint Juniper](Saint-Juniper.md)  
 **ESTABLISHED**: c. 1990s (alleged)  
 **STATUS**: Disputed; facility status unconfirmed  
 
 ---
 
-**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization The Bloc, operates covertly in the forested areas near [Hill Devil State Park](Hill-Devil-State-Park.md) outside [Saint Juniper](Saint-Juniper.md), California. The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
+**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization The Bloc, operates covertly in the forested areas near [Hill Devil State Park](Hill-Devil-State-Park.md) outside [Saint Juniper](Saint-Juniper.md). The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
 
 **At a glance**
 

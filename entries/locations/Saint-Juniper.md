@@ -2,17 +2,16 @@
 
 ---
 **LOCATION TYPE**: Town  
-**STATE**: California  
 **POPULATION**: Approximately 38,000  
 **STATUS**: Active  
 
 ---
 
-**Saint Juniper** is a town of approximately 38,000 people in California, situated in a pine forest region. The town is known as the birthplace of The Bloc, an activist organization that investigates alleged corporate research misconduct, and for its proximity to Hill Devil State Park, the alleged site of a controversial research facility.
+**Saint Juniper** is a town of approximately 38,000 people situated in a pine forest region. The town is known as the birthplace of The Bloc, an activist organization that investigates alleged corporate research misconduct, and for its proximity to Hill Devil State Park, the alleged site of a controversial research facility.
 
 **At a glance**
 
-- Small California town of approximately 38,000 residents
+- Small town of approximately 38,000 residents
 - Located in pine forest region near Hill Devil State Park
 - Birthplace of The Bloc activist organization (founded 1999)
 - Home to [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md), which provided early meeting space for The Bloc
@@ -20,7 +19,7 @@
 
 ## Overview
 
-Saint Juniper is a small town located in a forested region of California. The community gained regional attention in the late 1990s due to a series of unexplained disappearances centered around Hill Devil State Park, a popular recreation area adjacent to the town.
+Saint Juniper is a small town located in a forested region. The community gained regional attention in the late 1990s due to a series of unexplained disappearances centered around Hill Devil State Park, a popular recreation area adjacent to the town.
 
 These incidents prompted several local residents to form The Bloc, an activist organization dedicated to investigating the disappearances and their potential connection to alleged unauthorized research activities in the area. The organization was founded in 1999 by three individuals known by the aliases [Z*L1NE](../people/Z-L1NE.md), 1NK, and GUMM1, who met while conducting independent research at the [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md).
 
@@ -47,7 +46,7 @@ Following the escape of research subject [G-304](../subjects/G-BOY.md) in the ea
 
 ## References
 
-1. U.S. Census data and California municipal records
+1. U.S. Census data and municipal records
 2. "Hill Devil Disappearances: A Community Forever Changed" regional reporting (1997-1998)
 3. The Bloc organizational history and founding documentation (1999)
 4. "Saint Juniper at the Center of Research Controversy" investigative journalism

@@ -2,14 +2,14 @@
 
 ---
 **LOCATION TYPE**: State Park  
-**LOCATION**: Near [Saint Juniper](Saint-Juniper.md), California  
+**LOCATION**: Near [Saint Juniper](Saint-Juniper.md)  
 **ESTABLISHED**: Mid-20th century (public park)  
 **FEATURES**: Pine forest, hiking trails  
 **STATUS**: Active (public recreation area); contains restricted facilities  
 
 ---
 
-**Hill Devil State Park** is a public recreational area located near [Saint Juniper](Saint-Juniper.md), California, featuring a sprawling forest of pine trees and maintained hiking trails. The park became the center of controversy following an October 1995 incident in which [Kai Shepherd](../people/Kai-Shepherd.md), a local resident, disappeared under unexplained circumstances near a restricted facility within the park boundaries. The incident prompted investigation by activist organization [The Bloc](../organizations/The-Bloc.md) and brought attention to alleged [Miter Corporation](../organizations/Miter-Corporation.md) operations in the area.
+**Hill Devil State Park** is a public recreational area located near [Saint Juniper](Saint-Juniper.md), featuring a sprawling forest of pine trees and maintained hiking trails. The park became the center of controversy following an October 1995 incident in which [Kai Shepherd](../people/Kai-Shepherd.md), a local resident, disappeared under unexplained circumstances near a restricted facility within the park boundaries. The incident prompted investigation by activist organization [The Bloc](../organizations/The-Bloc.md) and brought attention to alleged [Miter Corporation](../organizations/Miter-Corporation.md) operations in the area.
 
 **At a glance**
 

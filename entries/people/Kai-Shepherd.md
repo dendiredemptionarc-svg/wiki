@@ -2,7 +2,7 @@
 
 ---
 **BORN**: c. 1981  
-**RESIDENCE**: Saint Juniper, California  
+**RESIDENCE**: Saint Juniper  
 **STATUS**: Missing (October 1995)  
 
 ---

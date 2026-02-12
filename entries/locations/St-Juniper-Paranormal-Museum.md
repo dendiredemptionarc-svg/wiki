@@ -8,11 +8,11 @@
 
 ---
 
-The **St. Juniper Paranormal Museum** is an occult bookshop and research facility in [Saint Juniper](Saint-Juniper.md), California, operated by [Magdalena](../people/Magdalena.md). The establishment is best known for providing the basement headquarters where [The Bloc](../organizations/The-Bloc.md) was formed in 1999 and for housing an extensive collection of rare occult texts and artifacts relevant to the organization's research into alleged [Miter Corporation](../organizations/Miter-Corporation.md) misconduct.
+The **St. Juniper Paranormal Museum** is an occult bookshop and research facility in [Saint Juniper](Saint-Juniper.md) operated by [Magdalena](../people/Magdalena.md). The establishment is best known for providing the basement headquarters where [The Bloc](../organizations/The-Bloc.md) was formed in 1999 and for housing an extensive collection of rare occult texts and artifacts relevant to the organization's research into alleged [Miter Corporation](../organizations/Miter-Corporation.md) misconduct.
 
 **At a glance**
 
-- Occult bookshop and paranormal research facility in Saint Juniper, California
+- Occult bookshop and paranormal research facility in Saint Juniper
 - Operated by Magdalena, featuring extensive collection of rare occult books and artifacts
 - Provided basement space that became headquarters for The Bloc (1999)
 - Meeting place where founding members [Z*L1NE](../people/Z-L1NE.md), [1NK](../people/1NK.md), and [GUMM1](../people/GUMM1.md) first met (late 1990s)

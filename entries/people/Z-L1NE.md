@@ -27,7 +27,7 @@ The Bloc is an underground activist organization that investigates alleged human
 
 ## Early life
 
-Rosaline grew up in Saint Juniper, California, and attended local schools through her junior year of high school. During this period, she was present when [Kai Shepherd](Kai-Shepherd.md) disappeared at [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) under unexplained circumstances (October 1995). The incident prompted her to conduct independent research into paranormal phenomena and unexplained disappearances at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](Magdalena.md).
+Rosaline grew up in Saint Juniper and attended local schools through her junior year of high school. During this period, she was present when [Kai Shepherd](Kai-Shepherd.md) disappeared at [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) under unexplained circumstances (October 1995). The incident prompted her to conduct independent research into paranormal phenomena and unexplained disappearances at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](Magdalena.md).
 
 ## Career and activism
 
