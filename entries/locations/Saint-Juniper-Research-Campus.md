@@ -3,17 +3,17 @@
 ---
 **LOCATION TYPE**: Research Facility  
 **OPERATOR**: [Miter Corporation](../organizations/Miter-Corporation.md) (alleged)  
-**LOCATION**: Near Hill Devil State Park, [Saint Juniper](Saint-Juniper.md), California  
+**LOCATION**: Near [Hill Devil State Park](Hill-Devil-State-Park.md), [Saint Juniper](Saint-Juniper.md), California  
 **ESTABLISHED**: c. 1990s (alleged)  
 **STATUS**: Disputed; facility status unconfirmed  
 
 ---
 
-**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization The Bloc, operates covertly in the forested areas near Hill Devil State Park outside [Saint Juniper](Saint-Juniper.md), California. The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
+**Saint Juniper Research Campus** is an alleged research facility that, according to activist organization The Bloc, operates covertly in the forested areas near [Hill Devil State Park](Hill-Devil-State-Park.md) outside [Saint Juniper](Saint-Juniper.md), California. The facility gained public attention in the early 2000s following a security breach and the escape of a research subject designated [G-304](../subjects/G-BOY.md) (known as "G*BOY").
 
 **At a glance**
 
-- Alleged covert research facility in Hill Devil State Park area
+- Alleged covert research facility in [Hill Devil State Park](Hill-Devil-State-Park.md) area
 - Subject of ongoing investigation by The Bloc activist organization
 - Characterized by brutalist concrete architecture (per visual documentation)
 - Site of major security breach and subject escape (early 2000s)
@@ -52,6 +52,7 @@ The current operational status of the facility remains unclear. The Bloc claims 
 
 ## See Also
 
+- [Hill Devil State Park](Hill-Devil-State-Park.md) — State park containing facility
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
 - [The Bloc](../organizations/The-Bloc.md) — Activist organization investigating the facility
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject

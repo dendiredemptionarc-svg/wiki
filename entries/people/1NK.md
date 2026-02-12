@@ -30,7 +30,7 @@ The Bloc operates as an underground watchdog organization investigating what it 
 
 1NK gained unauthorized access to Miter Corporation file storage systems in the late 1990s. The materials obtained indicated research programs focused on human cognitive enhancement and what The Bloc characterized as "psychic experimentation." These findings formed the basis for The Bloc's founding mission.
 
-According to The Bloc's published materials, 1NK discovered that Miter Corporation operated research facilities near Hill Devil State Park in Saint Juniper, California, and that these facilities were conducting trials on human subjects.
+According to The Bloc's published materials, 1NK discovered that Miter Corporation operated research facilities near [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) in Saint Juniper, California, and that these facilities were conducting trials on human subjects.
 
 ### Formation of The Bloc
 
@@ -52,6 +52,7 @@ The founding members published *G*BOY Manifesto: Sigils, Symbols, and Memetic Re
 - [GUMM1](GUMM1.md)
 - [Magdalena](Magdalena.md)
 - [Kai Shepherd](Kai-Shepherd.md)
+- [Hill Devil State Park](../locations/Hill-Devil-State-Park.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)

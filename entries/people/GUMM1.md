@@ -50,6 +50,7 @@ GUMM1 resides in the Saint Juniper area and maintains family connections in the 
 - [1NK](1NK.md)
 - [Magdalena](Magdalena.md)
 - [Kai Shepherd](Kai-Shepherd.md)
+- [Hill Devil State Park](../locations/Hill-Devil-State-Park.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)

@@ -52,7 +52,7 @@ Documentation of the incident exists in investigative materials compiled by rese
 
 - [Z*L1NE](Z-L1NE.md)
 - [The Bloc](../organizations/The-Bloc.md)
-- [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) (if entry exists)
+- [Hill Devil State Park](../locations/Hill-Devil-State-Park.md)
 - [Saint Juniper](../locations/Saint-Juniper.md) (if entry exists)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)

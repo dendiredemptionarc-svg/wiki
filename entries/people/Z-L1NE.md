@@ -27,13 +27,13 @@ The Bloc is an underground activist organization that investigates alleged human
 
 ## Early life
 
-Rosaline grew up in Saint Juniper, California, and attended local schools through her junior year of high school. During this period, she was present when [Kai Shepherd](Kai-Shepherd.md) disappeared at Hill Devil State Park under unexplained circumstances (October 1995). The incident prompted her to conduct independent research into paranormal phenomena and unexplained disappearances at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](Magdalena.md).
+Rosaline grew up in Saint Juniper, California, and attended local schools through her junior year of high school. During this period, she was present when [Kai Shepherd](Kai-Shepherd.md) disappeared at [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) under unexplained circumstances (October 1995). The incident prompted her to conduct independent research into paranormal phenomena and unexplained disappearances at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](Magdalena.md).
 
 ## Career and activism
 
 ### Formation of The Bloc
 
-At the [paranormal museum](../locations/St-Juniper-Paranormal-Museum.md), Rosaline met two computer security researchers who used the aliases [1NK](1NK.md) and [GUMM1](GUMM1.md). The pair claimed to have discovered evidence of unauthorized human research programs conducted by the Miter Corporation at facilities near Hill Devil State Park. In 1999, the three founded The Bloc, a watchdog organization dedicated to exposing corporate malfeasance in the research sector.
+At the [paranormal museum](../locations/St-Juniper-Paranormal-Museum.md), Rosaline met two computer security researchers who used the aliases [1NK](1NK.md) and [GUMM1](GUMM1.md). The pair claimed to have discovered evidence of unauthorized human research programs conducted by the Miter Corporation at facilities near [Hill Devil State Park](../locations/Hill-Devil-State-Park.md). In 1999, the three founded The Bloc, a watchdog organization dedicated to exposing corporate malfeasance in the research sector.
 
 The group operated from basement facilities provided by [Magdalena](Magdalena.md) at the [museum](../locations/St-Juniper-Paranormal-Museum.md). The founding members published their core document, *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion*, in 1999, outlining their philosophy of resistance against what they termed "corporate cognitive manipulation."
 
@@ -67,6 +67,7 @@ The Bloc has claimed that Z*L1NE was targeted with psychological deterrence meas
 - [GUMM1](GUMM1.md)
 - [Magdalena](Magdalena.md)
 - [Kai Shepherd](Kai-Shepherd.md)
+- [Hill Devil State Park](../locations/Hill-Devil-State-Park.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md)
