@@ -34,7 +34,7 @@ The museum attracted individuals researching unexplained disappearances and para
 
 ### Mentorship and The Bloc formation
 
-In the late 1990s, Magdalena's [museum](../locations/St-Juniper-Paranormal-Museum.md) became a meeting place for young researchers investigating disappearances and alleged corporate misconduct in the Saint Juniper area. When [Z*L1NE](Z-L1NE.md) began researching paranormal phenomena following an unexplained disappearance in 1997, she spent considerable time at the [museum](../locations/St-Juniper-Paranormal-Museum.md) studying Magdalena's collection.
+In the late 1990s, Magdalena's [museum](../locations/St-Juniper-Paranormal-Museum.md) became a meeting place for young researchers investigating disappearances and alleged corporate misconduct in the Saint Juniper area. When [Z*L1NE](Z-L1NE.md) began researching paranormal phenomena following the disappearance of [Kai Shepherd](Kai-Shepherd.md) at Hill Devil State Park in October 1995, she spent considerable time at the [museum](../locations/St-Juniper-Paranormal-Museum.md) studying Magdalena's collection.
 
 After Z*L1NE met [1NK](1NK.md) and [GUMM1](GUMM1.md) at the museum, the growing group of researchers continued to use the facility for their investigations. As their numbers increased in 1999, Magdalena provided basement space that became The Bloc's headquarters. The basement contained research materials, computer equipment, and workspace for the activist organization.
 
@@ -67,6 +67,7 @@ Her research into archetypal symbolism contributed to The Bloc's interpretation 
 - [Z*L1NE](Z-L1NE.md)
 - [1NK](1NK.md)
 - [GUMM1](GUMM1.md)
+- [Kai Shepherd](Kai-Shepherd.md)
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md)
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 

@@ -51,6 +51,7 @@ The founding members published *G*BOY Manifesto: Sigils, Symbols, and Memetic Re
 - [Z*L1NE](Z-L1NE.md)
 - [GUMM1](GUMM1.md)
 - [Magdalena](Magdalena.md)
+- [Kai Shepherd](Kai-Shepherd.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)

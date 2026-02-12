@@ -35,7 +35,7 @@ According to materials published by The Bloc, the organization views [Miter Corp
 
 The Bloc's origins trace to the late 1990s when one of its founding members gained unauthorized access to Miter Corporation secure file storage systems. The materials obtained indicated research programs focused on human cognitive enhancement and what The Bloc characterized as psychic experimentation.
 
-In approximately 1997, following unexplained disappearances at Hill Devil State Park, [Z*L1NE](../people/Z-L1NE.md) (real name Rosaline) began conducting independent research at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](../people/Magdalena.md). At the museum, she met two individuals who identified as hackers—[1NK](../people/1NK.md) and [GUMM1](../people/GUMM1.md)—who claimed to have discovered evidence of corporate research activities involving child abduction and experimentation.
+Following the disappearance of [Kai Shepherd](../people/Kai-Shepherd.md) at Hill Devil State Park in October 1995, [Z*L1NE](../people/Z-L1NE.md) (real name Rosaline)—a witness to the incident—began conducting independent research at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md), an occult bookshop operated by [Magdalena](../people/Magdalena.md). At the museum, she met two individuals who identified as hackers—[1NK](../people/1NK.md) and [GUMM1](../people/GUMM1.md)—who claimed to have discovered evidence of corporate research activities involving child abduction and experimentation.
 
 The three began collaborating on research throughout the summer, and their investigation attracted additional members. As the group expanded, Magdalena provided basement space at the museum for their operations. In 1999, the collective formally adopted the name "The Bloc" and established the museum basement as their headquarters.
 
@@ -222,6 +222,7 @@ The fate of volunteers who had their memories erased remains a primary concern a
 - [1NK](../people/1NK.md) — Co-founder and network security researcher
 - [GUMM1](../people/GUMM1.md) — Co-founder and data analyst
 - [Magdalena](../people/Magdalena.md) — Museum proprietor and adviser
+- [Kai Shepherd](../people/Kai-Shepherd.md) — Catalyst for organization's formation
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped subject and organizational symbol
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Headquarters location
 - [Miter Corporation](Miter-Corporation.md) — Primary investigation target

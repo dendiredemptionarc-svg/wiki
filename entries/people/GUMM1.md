@@ -49,6 +49,7 @@ GUMM1 resides in the Saint Juniper area and maintains family connections in the 
 - [Z*L1NE](Z-L1NE.md)
 - [1NK](1NK.md)
 - [Magdalena](Magdalena.md)
+- [Kai Shepherd](Kai-Shepherd.md)
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
