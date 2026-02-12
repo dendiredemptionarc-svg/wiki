@@ -73,7 +73,8 @@ By 1997, experimentation logs noted that work across multiple divisions proceede
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [Variable-G Trials](../concepts/Variable-G-Trials.md)
-- [G-304](../subjects/G-304.md)
+- [G*BOY (Subject G-304)](../subjects/G-BOY.md)
+- [The Mindverse](../concepts/The-Mindverse.md)
 - [Origin Theory](../concepts/Origin-Theory.md)
 
 ## References

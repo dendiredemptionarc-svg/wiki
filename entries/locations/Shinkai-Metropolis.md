@@ -75,6 +75,7 @@ The existence of such realms raises questions about the relationship between con
 
 ## See Also
 
+- [The Mindverse](../concepts/The-Mindverse.md) — Network of mental realms that Shinkai Metropolis is part of
 - [G*BOY](../subjects/G-BOY.md) — Former subject who appeared in Shinkai Metropolis as anomaly
 - [The Bloc](../organizations/The-Bloc.md) — Their ritual activity allegedly caused dimensional rift
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility where consciousness-related experiments occurred

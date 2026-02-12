@@ -62,6 +62,7 @@ These accounts suggest G-304 may currently exist within the Mindverse network ra
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
+- [The Mindverse](../concepts/The-Mindverse.md) — Network of mental realms G*BOY discovered and navigates
 - [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Mind place where G*BOY appeared as anomaly
 - [The Bloc](../organizations/The-Bloc.md) — Activist organization that adopted G*BOY as symbol
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, broadcast hijacker

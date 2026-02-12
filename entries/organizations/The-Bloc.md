@@ -227,6 +227,7 @@ The fate of volunteers who had their memories erased remains a primary concern a
 - [Kai Shepherd](../people/Kai-Shepherd.md) — Catalyst for organization's formation
 - [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) — Site of incident that catalyzed formation
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped subject and organizational symbol
+- [The Mindverse](../concepts/The-Mindverse.md) — Mental realm network affected by ritual
 - [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Mind place where G*BOY was displaced by ritual
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Headquarters location
 - [Miter Corporation](Miter-Corporation.md) — Primary investigation target
