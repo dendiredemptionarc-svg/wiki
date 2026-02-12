@@ -34,7 +34,7 @@ According to The Bloc's published materials, 1NK discovered that Miter Corporati
 
 ### Formation of The Bloc
 
-1NK met [Z*L1NE](Z-L1NE.md) at the St. Juniper Paranormal Museum around 1999, where both were conducting independent research. Along with fellow researcher [GUMM1](GUMM1.md), the three formed The Bloc and established operations in basement facilities provided by the museum's proprietor, [Magdalena](Magdalena.md).
+1NK met [Z*L1NE](Z-L1NE.md) at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) around 1999, where both were conducting independent research. Along with fellow researcher [GUMM1](GUMM1.md), the three formed The Bloc and established operations in basement facilities provided by the [museum](../locations/St-Juniper-Paranormal-Museum.md)'s proprietor, [Magdalena](Magdalena.md).
 
 The founding members published *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* in 1999, which outlined their analysis of what they termed "coercive homogeny" and "memetic control" allegedly practiced by corporate entities including Miter Corporation. The document positioned The Bloc as resisting centralization and uniformity.
 
@@ -51,6 +51,7 @@ The founding members published *G*BOY Manifesto: Sigils, Symbols, and Memetic Re
 - [Z*L1NE](Z-L1NE.md)
 - [GUMM1](GUMM1.md)
 - [Magdalena](Magdalena.md)
+- [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)

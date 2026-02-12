@@ -45,12 +45,14 @@ The visual iconography proved effective at raising awareness of The Bloc's alleg
 
 ## Historical claims
 
-Magdalena, operator of the St. Juniper Paranormal Museum and early supporter of The Bloc, has claimed that figures resembling G*BOY appear in historical artifacts and ancient texts in her collection. She reports possessing a statue that allegedly predates modern records of G-304's existence. These claims remain unverified by independent scholars, though they have contributed to G*BOY's mythological status within activist and paranormal research communities.
+[Magdalena](../people/Magdalena.md), operator of the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) and early supporter of The Bloc, has claimed that figures resembling G*BOY appear in historical artifacts and ancient texts in her collection. She reports possessing a statue that allegedly predates modern records of G-304's existence. These claims remain unverified by independent scholars, though they have contributed to G*BOY's mythological status within activist and paranormal research communities.
 
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, broadcast hijacker
+- [Magdalena](../people/Magdalena.md) — Occult researcher with historical G*BOY artifacts
+- [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Location of ancient statue resembling G*BOY
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner analyzing G-304 modulation trials
 

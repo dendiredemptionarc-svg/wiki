@@ -15,21 +15,21 @@
 - Small California town of approximately 38,000 residents
 - Located in pine forest region near Hill Devil State Park
 - Birthplace of The Bloc activist organization (founded 1999)
-- Home to St. Juniper Paranormal Museum, which provided early meeting space for The Bloc
+- Home to [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md), which provided early meeting space for The Bloc
 - Subject of allegations regarding unexplained disappearances in the late 1990s
 
 ## Overview
 
 Saint Juniper is a small town located in a forested region of California. The community gained regional attention in the late 1990s due to a series of unexplained disappearances centered around Hill Devil State Park, a popular recreation area adjacent to the town.
 
-These incidents prompted several local residents to form The Bloc, an activist organization dedicated to investigating the disappearances and their potential connection to alleged unauthorized research activities in the area. The organization was founded in 1999 by three individuals known by the aliases [Z*L1NE](../people/Z-L1NE.md), 1NK, and GUMM1, who met while conducting independent research at the St. Juniper Paranormal Museum.
+These incidents prompted several local residents to form The Bloc, an activist organization dedicated to investigating the disappearances and their potential connection to alleged unauthorized research activities in the area. The organization was founded in 1999 by three individuals known by the aliases [Z*L1NE](../people/Z-L1NE.md), 1NK, and GUMM1, who met while conducting independent research at the [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md).
 
 The town has since become associated with The Bloc's ongoing investigation into what the organization alleges is a covert research facility operated near Hill Devil State Park.
 
 ## Notable locations
 
 - **Hill Devil State Park:** State park adjacent to Saint Juniper; site of unexplained disappearances in the late 1990s and alleged location of controversial research facility
-- **St. Juniper Paranormal Museum:** Occult bookshop and museum operated by Magdalena; served as meeting place for early Bloc members
+- **[St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md):** Occult bookshop and museum operated by Magdalena; served as meeting place for early Bloc members
 - **[Saint Juniper Research Campus](Saint-Juniper-Research-Campus.md):** Alleged research facility in forested area near Hill Devil State Park (existence disputed)
 
 ## Community impact
@@ -41,6 +41,7 @@ Following the escape of research subject [G-304](../subjects/G-BOY.md) in the ea
 ## See Also
 
 - [Saint Juniper Research Campus](Saint-Juniper-Research-Campus.md) — Alleged research facility
+- [St. Juniper Paranormal Museum](St-Juniper-Paranormal-Museum.md) — Occult bookshop and Bloc headquarters
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, Saint Juniper resident
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped research subject
 

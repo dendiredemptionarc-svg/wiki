@@ -28,7 +28,7 @@ The Bloc operates as an underground watchdog organization investigating what it 
 
 ### Formation of The Bloc
 
-GUMM1 met [Z*L1NE](Z-L1NE.md) at the St. Juniper Paranormal Museum around 1999. Along with fellow researcher [1NK](1NK.md), who had gained unauthorized access to Miter Corporation systems, the three formed The Bloc and established operations in basement facilities provided by the museum's proprietor, [Magdalena](Magdalena.md).
+GUMM1 met [Z*L1NE](Z-L1NE.md) at the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) around 1999. Along with fellow researcher [1NK](1NK.md), who had gained unauthorized access to Miter Corporation systems, the three formed The Bloc and established operations in basement facilities provided by the [museum](../locations/St-Juniper-Paranormal-Museum.md)'s proprietor, [Magdalena](Magdalena.md).
 
 The founding members published *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* in 1999, which outlined their analysis of alleged corporate control mechanisms and positioned The Bloc as an activist organization resisting what they termed "coercive homogeny."
 
@@ -49,6 +49,7 @@ GUMM1 resides in the Saint Juniper area and maintains family connections in the 
 - [Z*L1NE](Z-L1NE.md)
 - [1NK](1NK.md)
 - [Magdalena](Magdalena.md)
+- [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md)
 - [The Bloc](../organizations/The-Bloc.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
