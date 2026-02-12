@@ -50,13 +50,13 @@ This governance structure suggests Shinkai Metropolis operates as an autonomous 
 
 ## G*BOY incident
 
-In the early 2000s, [G*BOY](../subjects/G-BOY.md) and a companion reportedly appeared in Shinkai Metropolis as unwanted "anomalies." According to recovered accounts:
+In the early 2000s, [G*BOY](../subjects/G-BOY.md) and companion [BLOWPIE](../subjects/BLOWPIE.md) reportedly appeared in Shinkai Metropolis as unwanted "anomalies." According to recovered accounts:
 
 - The pair materialized in the city due to what sages described as "a tear in the realities"
 - This dimensional rift was attributed to "some sort of ritual accident" (believed to reference [The Bloc](../organizations/The-Bloc.md)'s ritual activities)
 - Husbando captured the anomalies and brought them before the Oni King
 - The Oni King ordered their execution
-- G*BOY and his companion escaped by stealing an ornate flying vessel, despite G*BOY's lack of piloting knowledge
+- G*BOY and BLOWPIE escaped by stealing an ornate flying vessel, despite G*BOY's lack of piloting knowledge
 
 The incident demonstrates that mind places can be accessed involuntarily through dimensional disruptions, and that their inhabitants perceive interdimensional travelers as threatening anomalies.
 
@@ -77,6 +77,7 @@ The existence of such realms raises questions about the relationship between con
 
 - [The Mindverse](../concepts/The-Mindverse.md) — Network of mental realms that Shinkai Metropolis is part of
 - [G*BOY](../subjects/G-BOY.md) — Former subject who appeared in Shinkai Metropolis as anomaly
+- [BLOWPIE](../subjects/BLOWPIE.md) — G*BOY's companion who was displaced to Shinkai
 - [The Bloc](../organizations/The-Bloc.md) — Their ritual activity allegedly caused dimensional rift
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility where consciousness-related experiments occurred
 

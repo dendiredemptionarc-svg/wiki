@@ -210,6 +210,22 @@ The Bloc represents a model of activism combining technical expertise (hacking, 
 
 The Bloc's practice of publishing recovered materials has created a public record of documents the organization claims reveal illegal research operations. Whether these materials are authentic or how The Bloc obtained them remains subject to debate, but their publication has shaped public discourse around corporate accountability and research ethics.
 
+## Media coverage and public perception
+
+The Bloc has received significant media attention across multiple platforms in late 2025, with coverage ranging from conspiracy theory discussions to financial market analysis.
+
+### SnarkCast Coverage
+
+In November 2025, conspiracy theorist [Conspirazorg](../people/Conspirazorg.md) discussed The Bloc's allegations about [Miter Corporation](Miter-Corporation.md) on the podcast [SnarkCast](SnarkCast.md), presenting theories about child experimentation and psychic weapons development. Later that month, *SnarkCast* host [Milton Plumb](../people/Milton-Plumb.md) and guest [Rectford Shillman](../people/Rectford-Shillman.md) characterized The Bloc as "hacktivists" and "terrorists," warning about the organization's planned blockchain activities involving [G*BOY](../subjects/G-BOY.md).
+
+### $GBOY Cryptocurrency Launch
+
+In December 2025, The Bloc launched the $GBOY cryptocurrency token, which received analysis on the financial program [Market Talk](Market-Talk.md). Anchor [Denise Kepler](../people/Denise-Kepler.md) identified The Bloc as "a group of people posting pictures of a red-hooded boy trying to make some sort of change," dismissing the project as unworthy of sustained coverage.
+
+Analysts [Cynthia Milkins](../people/Cynthia-Milkins.md) and [Bradleigh Font](../people/Bradleigh-Font.md) reported on the token's volatile market performance, with Font noting widespread grassroots marketing including G*BOY stickers appearing on personal property throughout the region.
+
+The cryptocurrency launch demonstrated The Bloc's expansion into blockchain-based activism and memetic distribution, though mainstream financial media largely dismissed the project's long-term viability.
+
 ## Current status
 
 As of 2025, The Bloc remains active in investigating Miter Corporation operations and tracking the whereabouts of G-304 following the escape. The organization continues to maintain its headquarters at the St. Juniper Paranormal Museum and conducts ongoing network security research.
@@ -233,6 +249,10 @@ The fate of volunteers who had their memories erased remains a primary concern a
 - [Miter Corporation](Miter-Corporation.md) — Primary investigation target
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility under investigation
 - [Agent K](../people/Agent-K.md) — Conducts psychological operations against The Bloc
+- [SnarkCast](SnarkCast.md) — Satirical podcast covering The Bloc's activities
+- [Market Talk](Market-Talk.md) — Financial program analyzing $GBOY cryptocurrency
+- [Conspirazorg](../people/Conspirazorg.md) — Conspiracy theorist discussing The Bloc's allegations
+- [Milton Plumb](../people/Milton-Plumb.md) — SnarkCast host who labeled The Bloc as terrorists
 
 ## References
 

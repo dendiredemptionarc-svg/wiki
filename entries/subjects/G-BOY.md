@@ -45,13 +45,21 @@ Following the escape, The Bloc launched a public awareness campaign that adopted
 
 The visual iconography proved effective at raising awareness of The Bloc's allegations regarding Miter Corporation research practices. G*BOY became the organization's most recognizable symbol and a rallying point for supporters of their investigative efforts.
 
+### Media Coverage and Public Perception
+
+G*BOY has received significant media attention across multiple platforms. Conspiracy theorist [Conspirazorg](../people/Conspirazorg.md) discussed G*BOY's escape on [SnarkCast](../organizations/SnarkCast.md) in November 2025, identifying G*BOY as an escaped facility subject who had "blown up online" and become "some sort of symbol."
+
+In late November 2025, *SnarkCast* host [Milton Plumb](../people/Milton-Plumb.md) and guest [Rectford Shillman](../people/Rectford-Shillman.md) characterized G*BOY as a "terrorist," warning about [The Bloc](../organizations/The-Bloc.md)'s planned blockchain activities involving the G*BOY symbol.
+
+In December 2025, The Bloc launched the $GBOY cryptocurrency token, which was subsequently analyzed on the financial program [Market Talk](../organizations/Market-Talk.md). Anchor [Denise Kepler](../people/Denise-Kepler.md) described the project as "just a memecoin from a group of people posting pictures of a red-hooded boy trying to make some sort of change," dismissing it as not worthy of sustained coverage. Analysts [Cynthia Milkins](../people/Cynthia-Milkins.md) and [Bradleigh Font](../people/Bradleigh-Font.md) reported on the token's volatile price movements and widespread grassroots marketing, including G*BOY stickers appearing on personal property.
+
 ## Abilities and the Mindverse
 
 According to recovered accounts, G-304 developed or possessed an unusual ability during time at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)—a consciousness transfer capability referred to as "head jack." This ability reportedly allowed G-304 to transfer consciousness into another person's mind and control their body.
 
 Further reports describe G-304's discovery that human minds contain what are termed "mind places"—internal mental realms constructed from memories and imagination. These mind places are allegedly interconnected through a network called the Mindverse, which includes both individual mental realms and independent shared spaces.
 
-Following escape from the facility, G-304 reportedly appeared in [Shinkai Metropolis](../locations/Shinkai-Metropolis.md), a mind place within this network. The appearance was attributed to "a tear in the realities" caused by what sources describe as "a ritual accident"—possibly connected to [The Bloc](../organizations/The-Bloc.md)'s activities. G-304 and a companion were detained as "anomalies" by local authorities but escaped by commandeering a vessel.
+Following escape from the facility, G-304 reportedly appeared in [Shinkai Metropolis](../locations/Shinkai-Metropolis.md), a mind place within this network. The appearance was attributed to "a tear in the realities" caused by what sources describe as "a ritual accident"—possibly connected to [The Bloc](../organizations/The-Bloc.md)'s activities. G-304 and a companion named [BLOWPIE](BLOWPIE.md) were detained as "anomalies" by local authorities but escaped by commandeering a vessel.
 
 These accounts suggest G-304 may currently exist within the Mindverse network rather than physical space, which could explain the failure of recovery operations.
 
@@ -61,6 +69,7 @@ These accounts suggest G-304 may currently exist within the Mindverse network ra
 
 ## See Also
 
+- [BLOWPIE](BLOWPIE.md) — Companion who travels with G*BOY through the Mindverse
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
 - [The Mindverse](../concepts/The-Mindverse.md) — Network of mental realms G*BOY discovered and navigates
 - [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Mind place where G*BOY appeared as anomaly
@@ -70,6 +79,11 @@ These accounts suggest G-304 may currently exist within the Mindverse network ra
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Location of ancient statue resembling G*BOY
 - [Miter Corporation](../organizations/Miter-Corporation.md) — Alleged facility operator
 - [Aurelian Systems](../organizations/Aurelian-Systems.md) — Research partner analyzing G-304 modulation trials
+- [SnarkCast](../organizations/SnarkCast.md) — Satirical podcast covering G*BOY conspiracy theories
+- [Market Talk](../organizations/Market-Talk.md) — Financial program analyzing $GBOY cryptocurrency
+- [Conspirazorg](../people/Conspirazorg.md) — Conspiracy theorist discussing G*BOY escape
+- [Milton Plumb](../people/Milton-Plumb.md) — SnarkCast host who characterized G*BOY as terrorist
+- [Denise Kepler](../people/Denise-Kepler.md) — Market Talk anchor covering $GBOY token
 
 ## References
 

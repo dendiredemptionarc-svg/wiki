@@ -92,7 +92,7 @@ The "head jack" ability allegedly allows:
 Unintended tears in reality that displace individuals into mind places:
 
 - [The Bloc](../organizations/The-Bloc.md)'s ritual in the early 2000s allegedly caused "a tear in the realities"
-- This rift displaced [G*BOY](../subjects/G-BOY.md) into [Shinkai Metropolis](../locations/Shinkai-Metropolis.md)
+- This rift displaced [G*BOY](../subjects/G-BOY.md) and [BLOWPIE](../subjects/BLOWPIE.md) into [Shinkai Metropolis](../locations/Shinkai-Metropolis.md)
 - Individuals entering through rifts appear as "anomalies" to mind place inhabitants
 - Such displacement is involuntary and disorienting
 
@@ -181,6 +181,7 @@ The relationship between the Mindverse concept and documented consciousness rese
 ## See Also
 
 - [G*BOY](../subjects/G-BOY.md) — Subject who discovered and navigated the Mindverse
+- [BLOWPIE](../subjects/BLOWPIE.md) — G*BOY's companion who travels through the Mindverse
 - [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Autonomous mind place within the network
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility where consciousness research occurred
 - [The Bloc](../organizations/The-Bloc.md) — Organization whose ritual caused dimensional rift

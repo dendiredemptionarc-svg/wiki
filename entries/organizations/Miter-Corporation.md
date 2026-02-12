@@ -163,6 +163,14 @@ Miter Corporation maintains a low public profile. The company is publicly listed
 
 The corporation's name appears in leaked internal documents, facility signage shown in security footage, and corporate partnership agreements, but official confirmation of alleged research programs remains unavailable.
 
+### Media Coverage
+
+In November 2025, Miter Corporation operations were discussed on the satirical podcast [SnarkCast](SnarkCast.md). Conspiracy theorist [Conspirazorg](../people/Conspirazorg.md) presented theories about the corporation's activities at [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md), alleging that Miter kidnapped "homeless babies" to conduct traumatic experiments involving gravity manipulation and sensory deprivation with the goal of developing psychic weapons for military use.
+
+Host [Milton Plumb](../people/Milton-Plumb.md) acknowledged existing conspiracy theories about Miter conducting "psionic human testing" to create "super psychic soldiers." Conspirazorg identified [G*BOY](../subjects/G-BOY.md) as an escaped facility subject who had become an online symbol.
+
+While much of Conspirazorg's presentation aligned with documents later recovered by [The Bloc](The-Bloc.md), his theatrical podcast format differs substantially from the activist organization's more careful documentation approaches.
+
 ## Key Personnel
 
 - **Erik Purdue** — Director of Operations, St. Juniper Research Campus, Miter Corporation; addressed in "The Formation" video
@@ -186,6 +194,8 @@ Neither Miter Corporation nor affiliated entities have issued public statements 
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder and investigator
 - [1NK](../people/1NK.md) — Bloc co-founder who first accessed Miter systems
 - [GUMM1](../people/GUMM1.md) — Bloc co-founder and researcher
+- [SnarkCast](SnarkCast.md) — Satirical podcast covering Miter conspiracy theories
+- [Conspirazorg](../people/Conspirazorg.md) — Conspiracy theorist discussing Miter operations
 
 ## References
 
