@@ -73,9 +73,10 @@ Her research into archetypal symbolism contributed to The Bloc's interpretation 
 
 ## References
 
-1. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — Context regarding The Bloc formation at the museum
-2. "The Bloc: Saint Juniper's Paranormal Activists," coverage of activist organization and headquarters location
-3. The Bloc accounts of volunteer infiltration operation and subsequent events (early 2000s)
+1. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — Context regarding The Bloc formation at the museum (1999)
+2. [They Tried To Hide This](../../lore/THEY_TRIED_TO_HIDE_THIS.md) — Accounts of volunteer infiltration operation and ritual
+3. [Intake 041](../../lore/INTAKE-041_DECODED_FULL.md) — Ancient statue and archetypal G*BOY imagery
+4. "The Bloc: Saint Juniper's Paranormal Activists," coverage of activist organization and headquarters location
 
 ---
 

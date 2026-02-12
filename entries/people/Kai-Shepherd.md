@@ -62,7 +62,7 @@ Documentation of the incident exists in investigative materials compiled by rese
 ## References
 
 1. Eyewitness testimony from October 1995 incident — Documented by researchers and activists investigating Hill Devil State Park disappearances
-2. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — References the formative incident that led to The Bloc's investigation
+2. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — References the formative incident that led to The Bloc's investigation (1999)
 3. Regional documentation of unexplained disappearances near Saint Juniper (mid-1990s)
 
 ---

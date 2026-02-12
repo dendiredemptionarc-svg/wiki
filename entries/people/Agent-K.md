@@ -79,11 +79,10 @@ The full scope of Agent K's role, organizational position, and capabilities rema
 
 ## References
 
-1. **FacilityAddress_transcript** — Announcement of Agent K and Nocturne Squadron pursuing G-304
-2. **miter_internal_rv_fail_report_g304** — Directive to escalate remote viewing attempts to Agent K
-3. **k-briefing_extract_17** — Briefing communications involving Agent K
-4. **E01_PT1_TheFormation_transcript** — Agent K judgment narrative addressing Erik Purdue
-5. **TheBloc_transcript** — Agent K communication during Z*L1NE investigation activities
+1. [G-304 Escape Surveillance Log](../../lore/G-304_ESCAPE_SURVEILLANCE_LOG_DECODED.md) — Announcement of Agent K and Nocturne Squadron pursuing G-304
+2. [Miter RV Fail Report G-304](../../lore/MITER_RV_FAIL_REPORT_G304_DECODED.md) — Directive to escalate remote viewing attempts to Agent K
+3. [K-Briefing Extract 17](../../lore/K-BRIEFING_EXTRACT_17_DECODED.md) — Briefing communications involving Agent K
+4. [G-304 Mission Debrief Summary](../../lore/G-304_MISSION_DEBRIEF_SUMMARY.md) — Records of missions under Agent K's oversight (audio + transcript)
 
 ---
 

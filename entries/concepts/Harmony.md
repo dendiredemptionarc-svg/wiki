@@ -222,8 +222,9 @@ The medication is presented as solution to reasonable responses to genuinely dif
 4. **IRIS Hotline Option 6** — Adverse reaction reporting and non-responsive patient protocols
 5. **Harmony Commercial** — Television advertising with IRIS voice and glitch
 6. **GUMM1's Gram Gram Harmony** — Narrative video showing broadcast into vulnerable homes
-7. **Journal Entries (starryeyed77)** — Patient documentation of non-response and community effects
-8. **The Bloc Message / Harmony Commercial** — Extended commercial featuring isolation and pharmaceutical promises
+7. [Journal Entries - starryeyed77](../../lore/JOURNAL_ENTRIES_STARRYEYED77.md) — Patient documentation of non-response and community effects
+8. [Journal Entries - nightbloom_99](../../lore/JOURNAL_ENTRIES_NIGHTBLOOM_99.md) — Additional patient perspective on Harmony effects
+9. **The Bloc Message / Harmony Commercial** — Extended commercial featuring isolation and pharmaceutical promises
 
 ---
 

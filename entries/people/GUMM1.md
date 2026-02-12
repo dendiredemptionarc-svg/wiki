@@ -60,7 +60,7 @@ GUMM1 resides in the Saint Juniper area and maintains family connections in the 
 
 ## References
 
-1. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — Founding document co-authored by 1NK, Z-L1N3, and GUMM1
+1. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — Founding document co-authored by 1NK, Z-L1N3, and GUMM1 (1999)
 2. "The Bloc: Saint Juniper's Paranormal Activists," coverage of activist organization
 3. Online communications from The Bloc network (2025)
 

@@ -199,16 +199,17 @@ Neither Miter Corporation nor affiliated entities have issued public statements 
 
 ## References
 
-1. **Administrative Memo (February 11, 1994)** — Dr. Kerr announces Miter partnership
-2. **GBOY Manifesto (1999)** — The Bloc's allegations regarding Miter operations
-3. **ORIGIN_THEORY_DRAFT_v3.1 (December 12, 1993)** — Dr. Kerr's theoretical framework
-4. **PROTOCOLS_TIER0_SERIES_v1.8** — HB-Series Entrainment documentation
-5. **RV Failure Report** — Failed attempts to locate G-304 post-escape
-6. **"The Formation" Video** — Agent K's accusatory narrative directed at Erik Purdue
-7. **"The Bloc" Video (November 14, 2025)** — Community discussion of facility breach
-8. **Journal Entries (starryeyed77, 1999-2000)** — Cognitive Baseline Research Group recruitment
-9. **G-304 Modulation Document** — Aurelian Systems review of Miter conditioning programs
-10. **TheBloc Transcript** — Z*L1NE's November 2025 discussion of Miter operations
+1. [Admin Memo 1994-02-11](../../lore/ADMIN_MEMO_1994-02-11_DECODED.md) — Dr. Kerr announces Miter partnership
+2. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — The Bloc's allegations regarding Miter operations
+3. [Origin Theory Draft v3.1](../../lore/ORIGIN_THEORY_DRAFT_v3.1_DECODED.md) — Dr. Kerr's theoretical framework
+4. [Protocols Tier-0 Series v1.8](../../lore/PROTOCOLS_TIER0_SERIES_v1.8_DECODED.md) — HB-Series Entrainment documentation
+5. [Miter RV Fail Report G-304](../../lore/MITER_RV_FAIL_REPORT_G304_DECODED.md) — Failed attempts to locate G-304 post-escape
+6. [G-304 Mission Debrief Summary](../../lore/G-304_MISSION_DEBRIEF_SUMMARY.md) — Mission records (audio + transcript)
+7. [G-304 Modulation](../../lore/G-304_MODULATION_DECODED.md) — Aurelian Systems review of conditioning programs
+8. [Intercorp Thread Q4](../../lore/INTERCORP_THREAD_Q4_DECODED.md) — Multi-corporation detection of G-304
+9. [Oversight Chain](../../lore/OVERSIGHT_CHAIN_DECODED.md) — Cover-up communications
+10. [Journal Entries - starryeyed77](../../lore/JOURNAL_ENTRIES_STARRYEYED77.md) — Cognitive Baseline Research Group recruitment
+11. [Node04 Operations Log](../../lore/NODE04_OPERATIONS_LOG.md) — Badge system and escape response
 
 ---
 

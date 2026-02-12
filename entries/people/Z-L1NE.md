@@ -76,10 +76,11 @@ The Bloc has claimed that Z*L1NE was targeted with psychological deterrence meas
 
 ## References
 
-1. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — Founding document co-authored by 1NK, Z-L1N3, and GUMM1
-2. Regional news coverage of Saint Juniper Research Campus security breach (early 2000s)
-3. "The Bloc: Saint Juniper's Paranormal Activists," coverage of activist organization
-4. Public broadcast interruption incident, Saint Juniper Research Campus
+1. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — Founding document co-authored by 1NK, Z-L1N3, and GUMM1 (1999)
+2. [G-304 Escape Surveillance Log](../../lore/G-304_ESCAPE_SURVEILLANCE_LOG_DECODED.md) — Broadcast interruption incident documentation
+3. [So Here's The Sitch](../../lore/SO_HERES_THE_SITCH.md) — Community explanation referencing Z*L1NE's role
+4. Regional news coverage of Saint Juniper Research Campus security breach (early 2000s)
+5. "The Bloc: Saint Juniper's Paranormal Activists," coverage of activist organization
 
 ---
 

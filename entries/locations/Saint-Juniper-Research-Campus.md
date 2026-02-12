@@ -64,11 +64,15 @@ The current operational status of the facility remains unclear. The Bloc claims 
 
 ## References
 
-1. Regional news coverage of security breach and subject escape (early 2000s)
-2. Security footage and documentation released by The Bloc
-3. Dr. Ravel video transmission regarding recovery operations
-4. "Mystery Facility in Hill Devil: What We Know" investigative reporting
-5. The Bloc allegations and claims regarding Saint Juniper Research Campus
+1. [Admin Memo 1994-02-11](../../lore/ADMIN_MEMO_1994-02-11_DECODED.md) — Miter Corporation partnership announcement
+2. [Experimentation Logs Overview v2.4](../../lore/EXPERIMENTATION_LOGS_OVERVIEW_v2.4_DECODED.md) — Four experimental divisions documentation
+3. [Variable-G Trials Series A](../../lore/VAR-G_TRIALS_SERIES_A_1994-09_DECODED.md) — Early high-gravity experiments
+4. [Origin Theory Draft v3.1](../../lore/ORIGIN_THEORY_DRAFT_v3.1_DECODED.md) — Dr. Kerr's consciousness-curvature theory
+5. [Staff Journals Series C 1997](../../lore/STAFF_JOURNALS_SERIES_C_1997_DECODED.md) — Researchers' private observations
+6. [G-304 Escape Surveillance Log](../../lore/G-304_ESCAPE_SURVEILLANCE_LOG_DECODED.md) — Official escape documentation
+7. [G-304 Mission Debrief Summary](../../lore/G-304_MISSION_DEBRIEF_SUMMARY.md) — Mission records (audio + transcript)
+8. [Ravel Lecture: Gravity and Divinity](../../lore/RAVEL_LECTURE_GRAVITY_DIVINITY.md) — Dr. Ravel's lecture (audio + transcript)
+9. [Node04 Operations Log](../../lore/NODE04_OPERATIONS_LOG.md) — Badge distribution and escape response
 
 ---
 

@@ -97,10 +97,11 @@ The museum's collection of historical texts showing archetypal imagery matching 
 ## References
 
 1. The Bloc founding accounts and organizational history (1999)
-2. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — References to The Bloc formation and museum basement headquarters
-3. Visual documentation of museum exterior and interior facilities
-4. Accounts of Magdalena's occult research and artifact collection
-5. The Bloc operational documentation referencing museum basement headquarters (late 1990s–present)
+2. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — References to The Bloc formation and museum basement headquarters (1999)
+3. [Intake 041](../../lore/INTAKE-041_DECODED_FULL.md) — Ancient statue and archetypal imagery in museum collection
+4. Visual documentation of museum exterior and interior facilities
+5. Accounts of Magdalena's occult research and artifact collection
+6. The Bloc operational documentation referencing museum basement headquarters (late 1990s–present)
 
 ---
 

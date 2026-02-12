@@ -56,7 +56,10 @@ Dr. Ravel's supervision of multi-division experimentation in 1997 represented a 
 
 ## References
 
-1. **EXPERIMENTATION_LOGS_OVERVIEW_v2.4** — Annual summary noting Dr. Ravel's guidance of multi-division work (April 7, 1997)
+1. [Experimentation Logs Overview v2.4](../../lore/EXPERIMENTATION_LOGS_OVERVIEW_v2.4_DECODED.md) — Annual summary noting Dr. Ravel's guidance of multi-division work (April 7, 1997)
+2. [Ravel Lecture: Gravity and Divinity](../../lore/RAVEL_LECTURE_GRAVITY_DIVINITY.md) — Dr. Ravel's philosophical lecture on consciousness and gravity (audio + transcript)
+3. [Variable-G Trials Series A](../../lore/VAR-G_TRIALS_SERIES_A_1994-09_DECODED.md) — Internal comment on transformation and self-perception
+4. [Staff Journals Series C 1997](../../lore/STAFF_JOURNALS_SERIES_C_1997_DECODED.md) — Dr. Ravel's ethical concerns about the research
 
 ---
 

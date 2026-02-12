@@ -133,8 +133,8 @@ This suggests Aurelian maintains sophisticated audio analysis capabilities and a
 2. **IRIS Hotline Option 7** — States IRIS created by Aurelian Systems in 1999
 3. **IRIS Hotline Option 5.2** — Prescribing guidelines directing providers to contact Aurelian
 4. **IRIS Hotline Option 5.3** — Archived messages including Dr. Vasquez receiving "sample"
-5. **G-304 Modulation Document** — Aurelian review of cross-frequency modulation trials
-6. **Journal Entries (starryeyed77)** — Patient documentation of doctor contacting "manufacturer, Aurelian"
+5. [G-304 Modulation](../../lore/G-304_MODULATION_DECODED.md) — Aurelian review of cross-frequency modulation trials
+6. [Journal Entries - starryeyed77](../../lore/JOURNAL_ENTRIES_STARRYEYED77.md) — Patient documentation of doctor contacting "manufacturer, Aurelian"
 7. **Harmony Commercial** — Product advertising identifying Aurelian Systems
 
 ---

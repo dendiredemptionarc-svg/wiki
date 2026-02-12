@@ -76,9 +76,12 @@ By 1997, experimentation logs noted that work across multiple divisions proceede
 
 ## References
 
-1. **ORIGIN_THEORY_DRAFT_v3.1** — Dr. Kerr's theoretical framework on consciousness-gravity coupling (December 12, 1993)
-2. **ADMIN_MEMO_1994-02-11** — Administrative notice regarding Miter Corporation partnership transition (February 11, 1994)
-3. **EXPERIMENTATION_LOGS_OVERVIEW_v2.4** — Annual summary of observational and adaptive trials (April 7, 1997)
+1. [Origin Theory Draft v3.1](../../lore/ORIGIN_THEORY_DRAFT_v3.1_DECODED.md) — Dr. Kerr's theoretical framework on consciousness-gravity coupling (December 12, 1993)
+2. [Admin Memo 1994-02-11](../../lore/ADMIN_MEMO_1994-02-11_DECODED.md) — Administrative notice regarding Miter Corporation partnership transition (February 11, 1994)
+3. [Experimentation Logs Overview v2.4](../../lore/EXPERIMENTATION_LOGS_OVERVIEW_v2.4_DECODED.md) — Annual summary of observational and adaptive trials (April 7, 1997)
+4. [Variable-G Trials Series A](../../lore/VAR-G_TRIALS_SERIES_A_1994-09_DECODED.md) — Final notation on sedated subjects (September 1994)
+5. [Staff Journals Series C 1997](../../lore/STAFF_JOURNALS_SERIES_C_1997_DECODED.md) — References to Dr. Kerr's ethics audit requests
+6. [Protocols Tier-0 Series v1.8](../../lore/PROTOCOLS_TIER0_SERIES_v1.8_DECODED.md) — Internal note on G-304's Partition as "resistance"
 
 ---
 

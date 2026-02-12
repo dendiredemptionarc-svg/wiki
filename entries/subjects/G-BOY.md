@@ -87,11 +87,15 @@ These accounts suggest G-304 may currently exist within the Mindverse network ra
 
 ## References
 
-1. Regional news coverage of Saint Juniper Research Campus security breach (early 2000s)
-2. Security footage released by The Bloc showing facility escape
-3. Dr. Ravel public broadcast regarding recovery operations
-4. The Bloc public awareness campaign materials
-5. "G*BOY: Symbol of Resistance or Dangerous Fugitive?" investigative reporting
+1. [G-304 Escape Surveillance Log](../../lore/G-304_ESCAPE_SURVEILLANCE_LOG_DECODED.md) — Official surveillance log of the escape event
+2. [G-304 Mission Debrief Summary](../../lore/G-304_MISSION_DEBRIEF_SUMMARY.md) — Records of missions before the escape (audio + transcript)
+3. [Experimentation Logs Overview v2.4](../../lore/EXPERIMENTATION_LOGS_OVERVIEW_v2.4_DECODED.md) — Annual summary documenting G-304's memory persistence
+4. [Protocols Tier-0 Series v1.8](../../lore/PROTOCOLS_TIER0_SERIES_v1.8_DECODED.md) — Heartbeat Sequence and G-304's neural Partition
+5. [G-304 Modulation](../../lore/G-304_MODULATION_DECODED.md) — 152 BPM frequency and Arctic anomaly connection
+6. [Intake 041](../../lore/INTAKE-041_DECODED_FULL.md) — Historical artifacts matching G-304 across multiple eras
+7. [Node04 Operations Log](../../lore/NODE04_OPERATIONS_LOG.md) — Badge system distribution and escape response
+8. [So Here's The Sitch](../../lore/SO_HERES_THE_SITCH.md) — Community explanation of the G*BOY story
+9. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — First public document from The Bloc
 
 ---
 

@@ -256,13 +256,13 @@ The fate of volunteers who had their memories erased remains a primary concern a
 
 ## References
 
-1. *G*BOY Manifesto: Sigils, Symbols, and Memetic Rebellion* (1999) — Founding document co-authored by 1NK, Z-L1N3, and GUMM1
-2. The Bloc origin account and organizational history (late 1990s–1999)
-3. Recovered Miter Corporation internal documents obtained by The Bloc
-4. "The Bloc" community documentation (November 2025) — Online communications and member discussions
-5. Saint Juniper Research Campus broadcast hijacking incident
-6. Visual documentation of G*BOY memetic distribution campaign
-7. Magdalena's occult research contributions to The Bloc operations
+1. [G*BOY Manifesto](../../lore/GBOY-MANIFESTO.md) — Founding document (1999)
+2. [So Here's The Sitch](../../lore/SO_HERES_THE_SITCH.md) — Community explanation of The Bloc's mission
+3. [They Tried To Hide This](../../lore/THEY_TRIED_TO_HIDE_THIS.md) — History of volunteer infiltration operation
+4. [G-304 Escape Surveillance Log](../../lore/G-304_ESCAPE_SURVEILLANCE_LOG_DECODED.md) — Escape documentation
+5. [Node04 Operations Log](../../lore/NODE04_OPERATIONS_LOG.md) — Badge system used by The Bloc
+6. [Journal Entries - nightbloom_99](../../lore/JOURNAL_ENTRIES_NIGHTBLOOM_99.md) — Community member perspective
+7. Recovered Miter Corporation internal documents obtained by The Bloc
 
 ---
 
