@@ -65,9 +65,11 @@ The Bloc adopted G-304—whom they designated "G*BOY" (replacing the dash with a
 
 ### Ritual and mystical operations
 
-According to The Bloc's account, Magdalena instructed the organization in ritual practices using badges obtained from the facilities. She indicated that by focusing collective energy on G*BOY "at the right time," they could not directly save their captured volunteers but could "give them the power to save themselves."
+According to The Bloc's account, [Magdalena](../people/Magdalena.md) instructed the organization in ritual practices using badges obtained from the facilities. She indicated that by focusing collective energy on [G*BOY](../subjects/G-BOY.md) "at the right time," they could not directly save their captured volunteers but could "give them the power to save themselves."
 
-The Bloc performed this ritual, which members report was successful, though the full effects remain unclear in recovered documentation.
+The Bloc performed this ritual, which members report was successful in empowering subjects to resist. However, recovered accounts suggest the ritual had unintended dimensional effects—what sources describe as "a tear in the realities." This dimensional rift reportedly caused [G*BOY](../subjects/G-BOY.md) to be displaced into [Shinkai Metropolis](../locations/Shinkai-Metropolis.md), a mind place within the Mindverse network, where G*BOY appeared as an unwanted "anomaly."
+
+The full effects of the ritual and its relationship to consciousness-based phenomena explored at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) remain unclear in recovered documentation.
 
 ## Structure and operations
 
@@ -225,6 +227,7 @@ The fate of volunteers who had their memories erased remains a primary concern a
 - [Kai Shepherd](../people/Kai-Shepherd.md) — Catalyst for organization's formation
 - [Hill Devil State Park](../locations/Hill-Devil-State-Park.md) — Site of incident that catalyzed formation
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md) — Escaped subject and organizational symbol
+- [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Mind place where G*BOY was displaced by ritual
 - [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) — Headquarters location
 - [Miter Corporation](Miter-Corporation.md) — Primary investigation target
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Facility under investigation

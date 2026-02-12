@@ -13,11 +13,13 @@
 **At a glance**
 
 - Former research subject (Designation: G-304) at Saint Juniper Research Campus
+- Possesses consciousness transfer ability known as "head jack"
 - Escaped containment in early 2000s during major facility incident
+- Appeared in [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) mind place following dimensional incident
 - Subject of unsuccessful recovery operations led by Nocturne Squadron
 - Adopted as symbol by The Bloc activist movement
-- Distinctive appearance: red hooded figure
-- Current whereabouts unknown
+- Distinctive appearance: red hooded figure with horns
+- Current whereabouts unknown (believed to be in the Mindverse)
 
 ## Overview
 
@@ -43,6 +45,16 @@ Following the escape, The Bloc launched a public awareness campaign that adopted
 
 The visual iconography proved effective at raising awareness of The Bloc's allegations regarding Miter Corporation research practices. G*BOY became the organization's most recognizable symbol and a rallying point for supporters of their investigative efforts.
 
+## Abilities and the Mindverse
+
+According to recovered accounts, G-304 developed or possessed an unusual ability during time at the [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)—a consciousness transfer capability referred to as "head jack." This ability reportedly allowed G-304 to transfer consciousness into another person's mind and control their body.
+
+Further reports describe G-304's discovery that human minds contain what are termed "mind places"—internal mental realms constructed from memories and imagination. These mind places are allegedly interconnected through a network called the Mindverse, which includes both individual mental realms and independent shared spaces.
+
+Following escape from the facility, G-304 reportedly appeared in [Shinkai Metropolis](../locations/Shinkai-Metropolis.md), a mind place within this network. The appearance was attributed to "a tear in the realities" caused by what sources describe as "a ritual accident"—possibly connected to [The Bloc](../organizations/The-Bloc.md)'s activities. G-304 and a companion were detained as "anomalies" by local authorities but escaped by commandeering a vessel.
+
+These accounts suggest G-304 may currently exist within the Mindverse network rather than physical space, which could explain the failure of recovery operations.
+
 ## Historical claims
 
 [Magdalena](../people/Magdalena.md), operator of the [St. Juniper Paranormal Museum](../locations/St-Juniper-Paranormal-Museum.md) and early supporter of The Bloc, has claimed that figures resembling G*BOY appear in historical artifacts and ancient texts in her collection. She reports possessing a statue that allegedly predates modern records of G-304's existence. These claims remain unverified by independent scholars, though they have contributed to G*BOY's mythological status within activist and paranormal research communities.
@@ -50,6 +62,7 @@ The visual iconography proved effective at raising awareness of The Bloc's alleg
 ## See Also
 
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) — Research facility
+- [Shinkai Metropolis](../locations/Shinkai-Metropolis.md) — Mind place where G*BOY appeared as anomaly
 - [The Bloc](../organizations/The-Bloc.md) — Activist organization that adopted G*BOY as symbol
 - [Z*L1NE](../people/Z-L1NE.md) — Bloc co-founder, broadcast hijacker
 - [Magdalena](../people/Magdalena.md) — Occult researcher with historical G*BOY artifacts
