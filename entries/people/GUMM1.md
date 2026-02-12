@@ -22,7 +22,7 @@
 
 GUMM1 is one of three founding members of The Bloc, alongside [Z*L1NE](Z-L1NE.md) and [1NK](1NK.md). The organization was formed in 1999 following the discovery of classified research materials obtained from [Miter Corporation](../organizations/Miter-Corporation.md) secure servers. GUMM1 functions as one of the group's primary technical researchers specializing in data extraction and analysis.
 
-The Bloc operates as an underground watchdog organization investigating what it claims are illegal research operations involving human subjects. The group gained prominence following the escape of Subject [G-304](../subjects/G-304.md) from Saint Juniper Research Campus.
+The Bloc operates as an underground watchdog organization investigating what it claims are illegal research operations involving human subjects. The group gained prominence following the escape of [G*BOY (Subject G-304)](../subjects/G-BOY.md) from Saint Juniper Research Campus.
 
 ## Career and activism
 
@@ -42,7 +42,7 @@ GUMM1 specializes in computer security research and data analysis. Within The Bl
 
 ## Personal life
 
-GUMM1 resides in the Saint Juniper area and maintains family connections in the region. According to The Bloc's allegations, a family member (an elderly relative) was targeted by what the organization claims are Harmony Program operations—a pharmaceutical initiative that The Bloc alleges has undisclosed cognitive effects on participants.
+GUMM1 resides in the Saint Juniper area and maintains family connections in the region. According to The Bloc's allegations, a family member (an elderly relative) was targeted by what the organization claims are operations involving [Harmony](../concepts/Harmony.md)—a pharmaceutical initiative that The Bloc alleges has undisclosed cognitive effects on participants.
 
 ## See Also
 
@@ -56,7 +56,7 @@ GUMM1 resides in the Saint Juniper area and maintains family connections in the 
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md)
-- [Harmony Program](../concepts/Harmony-Program.md)
+- [Harmony](../concepts/Harmony.md)
 
 ## References
 

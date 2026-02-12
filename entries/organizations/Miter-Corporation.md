@@ -173,10 +173,10 @@ While much of Conspirazorg's presentation aligned with documents later recovered
 
 ## Key Personnel
 
-- **Erik Purdue** — Director of Operations, St. Juniper Research Campus, Miter Corporation; addressed in "The Formation" video
+- **Erik Purdue** — Director of Operations, St. Juniper Research Campus, Miter Corporation
 - **Dr. E. Kerr** — Director of the Division of Gravitational Cognition; announced partnership in 1994
 - **Dr. Ravel** — Researcher and later administrator; appeared in post-breach recovery transmission
-- **Agent K** — High-level operative who delivered judgment narrative in "The Formation"
+- **Agent K** — High-level operative
 - **Dr. Patricia Kemper** — Lead researcher for Cognitive Baseline Research Group subsidiary
 
 ## Current Status

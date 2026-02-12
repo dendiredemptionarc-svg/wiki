@@ -8,7 +8,7 @@
 
 ---
 
-Erik Purdue was the Director of Operations at the [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) under [Miter Corporation](../organizations/Miter-Corporation.md) oversight. He served during the period when subject [G-304](../subjects/G-304.md) escaped from containment and was subsequently formally admonished by [Agent K](Agent-K.md).
+Erik Purdue was the Director of Operations at the [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) under [Miter Corporation](../organizations/Miter-Corporation.md) oversight. He served during the period when subject [G*BOY (G-304)](../subjects/G-BOY.md) escaped from containment and was subsequently formally admonished by [Agent K](Agent-K.md).
 
 **At a glance**
 
@@ -52,10 +52,9 @@ Purdue's tenure as Director of Operations concluded following the G-304 containm
 ## See Also
 
 - [Agent K](Agent-K.md)
-- [G-304](../subjects/G-304.md)
+- [G*BOY (Subject G-304)](../subjects/G-BOY.md)
 - [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
-- [The Formation](../events/The-Formation.md)
 
 ## References
 

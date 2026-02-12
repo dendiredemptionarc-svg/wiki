@@ -8,7 +8,7 @@
 
 ---
 
-Agent K is a high-level operative associated with [G-304](../subjects/G-304.md) recapture operations and oversight of [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) activities. The designation appears in multiple operational contexts, including remote viewing protocols, recapture missions, and a judgment narrative delivered to [Erik Purdue](Erik-Purdue.md).
+Agent K is a high-level operative associated with [G*BOY (Subject G-304)](../subjects/G-BOY.md) recapture operations and oversight of [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md) activities. The designation appears in multiple operational contexts, including remote viewing protocols, recapture missions, and a judgment narrative delivered to [Erik Purdue](Erik-Purdue.md).
 
 **At a glance**
 
@@ -28,7 +28,7 @@ The precise nature of Agent K's authority, organizational affiliation, and capab
 
 ### G-304 Recapture Operations
 
-Following G-304's escape from St. Juniper Research Campus, Agent K assumed operational command of recapture efforts. A facility address delivered during this period stated: "Agent K and the Nocturne Squadron are moments away from putting this G*BOY issue behind us."
+Following G-304's escape from St. Juniper Research Campus, Agent K assumed operational command of recapture efforts. A facility address delivered during this period stated: "Agent K and Nocturne Squadron are moments away from putting this G*BOY issue behind us."
 
 This indicates:
 
@@ -60,7 +60,7 @@ Agent K has been described in witness accounts as wearing a dark coat and black 
 
 Agent K's documented activities indicate authority including:
 
-- Command of specialized operational units ([Nocturne Squadron](../organizations/Nocturne-Squadron.md))
+- Command of specialized operational units
 - Access to enhanced remote viewing capabilities
 - Receipt of high-level briefings using non-standard communications
 - Judgment authority over facility directors
@@ -71,14 +71,11 @@ The full scope of Agent K's role, organizational position, and capabilities rema
 ## See Also
 
 - [Erik Purdue](Erik-Purdue.md)
-- [Nocturne Squadron](../organizations/Nocturne-Squadron.md)
-- [G-304](../subjects/G-304.md)
+- [G*BOY (Subject G-304)](../subjects/G-BOY.md)
 - [St. Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
 - [The Bloc](../organizations/The-Bloc.md) — Activist organization targeted by Agent K's psychological operations
 - [Z*L1NE](Z-L1NE.md) — Bloc member subjected to Agent K communications
-- [Remote Viewing Program](../concepts/Remote-Viewing-Program.md)
-- [The Formation](../events/The-Formation.md)
 
 ## References
 

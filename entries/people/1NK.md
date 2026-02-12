@@ -22,7 +22,7 @@
 
 1NK is one of three founding members of The Bloc, alongside [Z*L1NE](Z-L1NE.md) and [GUMM1](GUMM1.md). The organization was formed in 1999 following the discovery of classified research materials that 1NK obtained from [Miter Corporation](../organizations/Miter-Corporation.md) secure servers. According to *G*BOY Manifesto*, 1NK was potentially the earliest member to uncover evidence of alleged human experimentation programs.
 
-The Bloc operates as an underground watchdog organization investigating what it claims are illegal research operations involving subjects designated with "G-" prefixes. The group gained prominence following the escape of Subject [G-304](../subjects/G-304.md) from Saint Juniper Research Campus.
+The Bloc operates as an underground watchdog organization investigating what it claims are illegal research operations involving subjects designated with "G-" prefixes. The group gained prominence following the escape of [G*BOY (Subject G-304)](../subjects/G-BOY.md) from Saint Juniper Research Campus.
 
 ## Career and activism
 

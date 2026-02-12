@@ -8,7 +8,7 @@
 
 ---
 
-Dr. E. Kerr was an American researcher and the founding director of the [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md) at [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md). He is best known for developing the theoretical framework on consciousness-curvature coupling and for overseeing the facility's transition to [Miter Corporation](../organizations/Miter-Corporation.md) oversight in 1994.
+Dr. E. Kerr was an American researcher and the founding director of the Division of Gravitational Cognition at [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md). He is best known for developing the theoretical framework on consciousness-curvature coupling and for overseeing the facility's transition to [Miter Corporation](../organizations/Miter-Corporation.md) oversight in 1994.
 
 **At a glance**
 
@@ -62,20 +62,17 @@ This philosophical stance suggests Dr. Kerr recognized ethical implications of c
 
 ## Legacy
 
-Dr. Kerr's Origin Theory provided the theoretical foundation for Saint Juniper Research Campus's gravitational cognition programs. His work enabled the development of protocols that would later be applied to Tier-0 subjects, including [G-304](../subjects/G-304.md).
+Dr. Kerr's Origin Theory provided the theoretical foundation for Saint Juniper Research Campus's gravitational cognition programs. His work enabled the development of protocols that would later be applied to Tier-0 subjects, including [G*BOY (Subject G-304)](../subjects/G-BOY.md).
 
 By 1997, experimentation logs noted that work across multiple divisions proceeded "under supervision from Miter and guidance from [Dr. Ravel](Dr-M-Ravel.md)," suggesting Dr. Kerr's operational role may have diminished after the initial partnership period.
 
 ## See Also
 
 - [Dr. M. Ravel](Dr-M-Ravel.md)
-- [Division of Gravitational Cognition](../concepts/Division-of-Gravitational-Cognition.md)
 - [Saint Juniper Research Campus](../locations/Saint-Juniper-Research-Campus.md)
 - [Miter Corporation](../organizations/Miter-Corporation.md)
-- [Variable-G Trials](../concepts/Variable-G-Trials.md)
 - [G*BOY (Subject G-304)](../subjects/G-BOY.md)
 - [The Mindverse](../concepts/The-Mindverse.md)
-- [Origin Theory](../concepts/Origin-Theory.md)
 
 ## References
 
