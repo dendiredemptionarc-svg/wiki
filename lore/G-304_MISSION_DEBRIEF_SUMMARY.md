@@ -161,3 +161,51 @@ NARRATOR:
 ## Community Notes
 
 *(To be added)*
+
+<!--
+ADDITIONAL TRANSCRIPT CONTEXT FOR AI AGENTS:
+
+NOTES:
+
+- NARRATOR/SPEAKER: Single voice delivering an official-sounding mission debrief report. The tone is clinical, detached, and bureaucratic - characteristic of classified military or scientific documentation being read aloud. The delivery is steady and measured, maintaining professional distance while recounting disturbing physical injuries and psychological effects. There's no emotional inflection despite the escalating severity of injuries across missions. The voice suggests a male narrator with clear articulation and a neutral, institutional cadence. The reading style evokes sterile government documentation or post-mission debriefing logs.
+
+- Story Summary:
+  * Subject G-304 undergoes a series of classified missions (14D through 26C) of varying durations
+  * Each mission results in physical trauma - bruising, fractures, thermal damage, corrosion, dehydration
+  * Subject consistently has no recall of what occurred during missions ("external environment")
+  * Missions involve mysterious items recovered: metallic lattice, melted ID tags, reflective glass
+  * Items display anomalous properties (vibrating when touched, composition inconsistent with known materials)
+  * Handler organization "MITER" repeatedly confiscates recovered items before analysis
+  * Mission 20B shows technical anomaly: three minutes of complete telemetry dropout
+  * Physical injuries escalate in severity across missions (eye hemorrhage, collarbone fracture, dissociation)
+  * Mission 26C represents breakthrough: first time subject retains memory of external environment
+  * Subject G-304 records audio fragment: "We found the edge"
+  * Final mission classified as "successful interface event" involving two subjects (G-304 and G-312)
+
+- Key Characters/Elements:
+  * G-304 - Primary mission subject experiencing repeated deployments with memory loss
+  * G-312 - Secondary subject appearing only in Mission 26C (Delta surface trial)
+  * Handler - Personnel who interact with recovered items and subjects post-mission
+  * MITER - Organization/courier service that confiscates recovered anomalous items
+  * Heliox - Referenced location or project ("Must be something from Heliox")
+  * External environment - Redacted deployment locations subject has no memory of
+  * Metallic lattice fragment - Anomalous material with unknown alloy composition (Mission 14D)
+  * Reflective glass sheet - Item with melted smooth edges, vault-contained (Mission 24F)
+  * Cylindrical object with coil housing - Recovered in final mission (26C)
+  * Inhibitor - Technical device/system monitoring subject during missions
+  * Delta surface trial - Designation for Mission 26C involving multiple subjects
+  * "The edge" - Location or phenomenon discovered during Mission 26C
+  * Acoustic trigger 152 BPM - Deployment parameter mentioned in Mission 17B
+  * Archive vault - MITER containment facility for anomalous items
+
+- Thematic Elements:
+  * Classified experimentation and human testing
+  * Memory suppression and psychological manipulation
+  * Physical trauma as operational cost
+  * Bureaucratic detachment from human suffering
+  * Anomalous materials and unexplained phenomena
+  * Organizational control and information containment
+  * Breakthrough amid escalating danger
+  * The unknown "external environment" as cosmic horror
+  * Sacrifice in pursuit of classified objectives
+-->

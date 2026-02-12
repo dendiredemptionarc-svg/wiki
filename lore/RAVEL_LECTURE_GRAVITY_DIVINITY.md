@@ -180,3 +180,59 @@ AUDIENCE MEMBER:
 ## Community Notes
 
 *(To be added)*
+
+<!--
+ADDITIONAL TRANSCRIPT CONTEXT FOR AI AGENTS:
+
+NOTES:
+
+- NARRATOR/SPEAKER: Single RAVEL delivering a high-level theoretical presentation that blends physics, mysticism, and consciousness research. The voice is authoritative yet contemplative, speaking with the measured confidence of someone presenting classified or esoteric scientific findings. The tone is philosophical and almost poetic, suggesting deep conviction in unconventional theories. The delivery is steady and deliberate, treating radical metaphysical concepts as empirical observations. There's an intellectual intensity combined with a mystical sensibility - this is someone who believes they're describing actual scientific phenomena, not metaphor. The voice suggests a male speaker, possibly middle-aged, with clear enunciation and academic cadence. At 02:15, the RAVEL interjects "Excellent" - possibly reacting to data displayed or a demonstration. A single audience exclamation ("Woohoo!") at the end suggests this is being delivered to a small, engaged group.
+
+- Story Summary:
+  * RAVEL presents theory that gravity is not merely physical force but "memory" - a trace of creation itself
+  * Proposes that matter contains imprints from the moment of its formation, like fingerprints of intention
+  * Introduces data showing human neural oscillations synchronize with planetary resonance (7.83 Hz) during specific emotional states
+  * Claims this frequency appears in ancient religious structures and practices across cultures
+  * Suggests consciousness may be fragment of the same source that created space-time - "architect trapped in its own design"
+  * Introduces "tri-axis loop" as symbol of mind-matter cycle, recurring across all cultures
+  * Describes ritual as attempt to communicate with the source using geometry as language
+  * Presents experimental findings: unified internal states can manipulate local reality fields
+  * Claims coherent subjects create "openings in curvature" - seams in fabric of reality
+  * Warns that emotional state determines what fills these openings (fear=distortion, devotion=stability, awe=passage)
+  * Provides experimental protocol: induce coherence via rhythmic light and controlled gravity variations
+  * Instructs to record subject visions as fragments of underlying reality structure
+  * Concludes with metaphysical assertion: soul is fracture of architect; gravity is pull toward reunion
+  * Frames all scientific measurement as attempt to remember primordial unity
+
+- Key Characters/Elements:
+  * RAVEL - Primary speaker presenting classified research on consciousness and reality manipulation
+  * The Architect - Proposed conscious entity or force that created universe by fragmenting itself
+  * The Source - Original unified consciousness from which space-time emerged
+  * The Field - Reality structure that responds to consciousness and coherence
+  * Subjects - Experimental participants undergoing coherence states
+  * 7.83 hertz - Schumann resonance/planetary frequency that consciousness synchronizes with
+  * Tri-axis loop - Recurring cross-cultural symbol representing mind-matter cycle
+  * Coherence - Unified internal state that allows reality manipulation
+  * G-variations - Controlled gravity variations used in experimental protocol
+  * Rhythmic light - Tool for inducing coherence in subjects
+  * Openings in curvature - Seams in reality fabric created by coherent consciousness
+  * Neural oscillations - Brain wave patterns that drift toward planetary resonance
+  * Early religious architecture - Ancient structures allegedly built on 7.83 Hz frequency
+  * Ancient charts - Historical documents showing knowledge of this frequency
+  * Recurring symbols/images - Visions subjects report, treated as fragments of reality blueprint
+  * The Original Pattern - Primordial structure before matter divided itself
+
+- Thematic Elements:
+  * Consciousness as fundamental force rather than emergent property
+  * Unity of mind and matter - panpsychism or idealism
+  * Ancient wisdom encoded in geometry and architecture
+  * Scientific validation of mystical/religious experiences
+  * Reality as malleable through coherent consciousness
+  * Fragmentation and reunion as cosmic narrative
+  * Memory embedded in physical structure of universe
+  * Emotion as determining factor in reality manipulation
+  * Ritual and prayer as communication protocols with creation
+  * Measurement and science as remembrance rather than discovery
+  * The divine as architect that fractured itself to create reality
+  * Gravity as longing rather than force
+-->
