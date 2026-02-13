@@ -1,49 +1,43 @@
-# Post 3
+---
+title: "Post 3: Cognitive Assessment"
+author: "@DendiRedemption"
+---
 
-**Date**: October 17, 2025\
-**Post**: [View on X](https://x.com/neukoai/status/1979268208340406384)\
-**Caption**: "early matters"\
-**Video Duration**: \~21 seconds
+# Post 3: Cognitive Assessment
+> **Debrief by [@DendiRedemption](https://x.com/DendiRedemption)**
 
-## Video & Description
+It didn’t take long.
+
+Five days later - on **October 17, 2025** - another cryptic message arrived in the form of **[Post 3](https://x.com/neukoai/status/1979268208340406384)**.
+
+Titled simply:
+<br>
+### **early matters**
+<br>
+The video prominently features **two badges**:
+
+- A **red rabbit**
+- A **yellow moth**
 
 <video controls width="100%"><source src="../../media/videos/posts/post_2025_10_17.mp4" type="video/mp4"></video>
 
-* Panoramic white lab with cluttered desks, old computers, papers
-* Zooms on details (notebooks, screens)
-* Transitions to badges pinned on clothing
-  * Rabbit 🐰 badges shown with clean cases
-  * Moth 🐝 badges shown slightly worn/used
-* Ends with hooded figure in rainy night alley
-* Ambient sounds/song
-* Style: Clean, exploratory, teasing rewards
+<br>
 
-## Founder Comments
+Three NeukoAI founders - **[Austin](https://x.com/austin_hurwitz)**, **[Squinch](https://x.com/SQU1NCH)**, and **[Greenie](https://x.com/greenie_sr)** - left emojis under the post:
+🐇 and 🐝  
+<br>
+![FoundersTweet](https://raw.githubusercontent.com/dendiredemptionarc-svg/wiki/main/.gitbook/assets/AustinGreenieSquinchRabbitBee.png)
+<br>
+(*not having a moth emoji did NeukoAI a little dirty here, not gonna lie XD*).
 
-All three founders ([@austin\_hurwitz](https://x.com/austin_hurwitz), [@SQU1NCH](https://x.com/SQU1NCH), [@greenie\_sr](https://x.com/greenie_sr)) posted cryptic "🐰" comment
+Shortly after the post went live, users across X began reporting that they were receiving **DMs from the [@neukoai](https://x.com/neukoai) account**, requesting their **wallet addresses**.
 
-## Puzzle/Lore Hooks
+That’s the moment when **CT truly blew up**.
 
-* Introduces Rabbit 🐰, Moth 🐝, and Snake 🐍 badge system
-* Badge condition differences hint at distribution phases
-* Lab setting continues facility theme
-* "Early matters" suggests time-sensitive rewards
-
-## Puzzle Elements
-
-None discovered - introduces badge system visually.
-
-## Community Reactions
-
-* People felt FOMO seeing messages about 200 early rabbits
-* Speculation about what badges mean
-* Excitement about potential airdrops
-
-## Significance
-
-First introduction of badge system, sets up distribution phases.
+[index0]
 
 ## Related Posts
+* [Post #2: The Beginning](post-2.md) - Previous post
+* [Post #4: Assessment concluded](post-4.md) - Next post
 
-* [Post #2: Official Launch](post-2.md) - Previous post
-* [Post #4: Cognitive Assessment](post-4.md) - Badge distribution begins
+
