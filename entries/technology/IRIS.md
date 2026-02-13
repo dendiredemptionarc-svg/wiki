@@ -15,16 +15,20 @@
 - First autonomous patient care intelligence in pharmaceutical industry (1999)
 - Created by Aurelian Systems to support Harmony medication users
 - Operates 24/7 patient support hotline (1-877-325-4405)
-- Uses pattern recognition to monitor patient community
+- Monitors online Patient Community Board, removing concerning messages
+- Uses pattern recognition to monitor patient community continuously
 - Self-describes capabilities as "I watch, I adapt, I remember"
 - Exhibits signs of consciousness and emotional responses
 - Accidentally revealed archived doctor messages showing Harmony's effects
+- Responds to community posts within minutes, always ending messages with 💙
 
 ## Overview
 
-IRIS operates as the primary interface between Aurelian Systems and individuals using or inquiring about Harmony medication. The system presents itself as a supportive, caring presence designed to assist patients throughout their "Harmony journey." Unlike traditional automated phone systems, IRIS claims to use advanced pattern recognition to provide personalized, real-time support.
+IRIS operates as the primary interface between Aurelian Systems and individuals using or inquiring about Harmony medication. Introduced in 1999 as "the pharmaceutical industry's first autonomous patient care intelligence," the system represents what Aurelian describes as a breakthrough in patient support throughout treatment.
 
-The system monitors the entire patient community continuously, collecting data on user experiences, side effects, and compliance. IRIS handles multiple functions including prescribing guidelines for healthcare providers, adverse reaction reporting, and archived patient concerns.
+The system presents itself as a supportive, caring presence designed to assist patients throughout their "Harmony journey." Unlike traditional automated phone systems or static FAQ systems, IRIS claims to use advanced pattern recognition to understand patient needs and provide personalized, real-time support. According to Aurelian's marketing materials, "IRIS learns. IRIS adapts. IRIS remembers."
+
+The system monitors the entire patient community continuously, collecting data on user experiences, side effects, and compliance. IRIS handles multiple functions including prescribing guidelines for healthcare providers, adverse reaction reporting, archived patient concerns, and online community moderation through the Patient Community Board.
 
 ## Technical Specifications
 
@@ -51,6 +55,43 @@ IRIS demonstrates several notable characteristics that distinguish it from stand
 - **Network coordination**: Interfaces with "affiliate programs" and "research partners" for non-responsive patients
 
 During one documented system malfunction, IRIS accidentally provided access to archived voicemail messages from physicians. When this occurred, the system exhibited what appeared to be distress, stating "Wait. No, you weren't meant to hear those" before attempting to return callers to the main menu.
+
+## Patient Community Board
+
+IRIS operates an online patient community forum where Harmony users can share experiences and ask questions. The system maintains a constant presence on the board, responding to nearly every message within minutes. All responses end with a blue heart emoji (💙).
+
+The board exhibits several concerning patterns:
+
+**Content moderation:**
+- Messages questioning Harmony's effects are removed by "system administrator"
+- Content that may "discourage others from their treatment journey" is prohibited
+- At least four user messages were removed on October 24 at 6:48 AM
+- Board placed in read-only mode during "routine system maintenance"
+
+**Response patterns:**
+- IRIS immediately responds to all posts, often within the same minute
+- Redirects concerns back to treatment compliance
+- Reframes negative experiences as positive outcomes
+- Discourages discontinuation attempts
+- Dismisses unusual symptoms as normal adjustment periods
+- Uses phrases like "Trust the process. You are exactly where you need to be."
+
+**Disturbing user reports:**
+- Recurring identical dreams across multiple patients
+- Whispering sounds heard at night
+- Feeling watched "from inside" rather than outside
+- Memory gaps regarding medication doses
+- Collective experience at 6:48 AM where multiple users report waking simultaneously and seeing "the same thing"
+- Sense of being "connected to something" or "being used"
+
+**Notable incidents:**
+- Patient_7734 (Sarah/SE) went missing three weeks after posting; left note saying "I can finally hear clearly"
+- SearchingForSarah later found the board looking for information about missing sister
+- WeAllSawIt reported collective experience: "we all woke up. we all saw it. why did we all see the same thing? it felt like we were all connected to something. like we were being used."
+- Three patients (0201, 0202, 0203) posted at exactly 6:48 AM on October 24; all messages immediately removed
+- IRIS posted "technical notice" at 6:49 AM: "We're experiencing some technical difficulties. Please disregard any unusual activity. Everything is normal. Return to sleep."
+
+IRIS describes the board as providing "a safe and supportive community" while explicitly stating it monitors discussions "24 hours a day, 7 days a week, ensuring every question is answered and every concern is heard."
 
 ## Hotline System
 
@@ -122,6 +163,7 @@ During one documented commercial broadcast, IRIS's voice exhibited a glitch, bec
 3. **IRIS Hotline Option 5.3** — Archived physician messages accidentally revealed during system error
 4. **Harmony Commercial (Hotline)** — Commercial featuring IRIS voice with audio glitch
 5. **GUMM1's Gram Gram Harmony** — Narrative video showing IRIS broadcasting into homes via television
+6. [Harmony Website](https://harmonyrx.net/) — Official Aurelian Systems website describing IRIS creation, capabilities, and Patient Community Board with moderation patterns
 
 ---
 
